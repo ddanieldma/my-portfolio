@@ -1,6 +1,12 @@
+
 <svelte:head>
 	<title>Home</title>
 </svelte:head>
+	
+<script>
+	import projects from "$lib/projects.json"
+	import Project from "$lib/Project.svelte"
+</script>
 
 <h1> Daniel de Miranda Almeida </h1>
 
@@ -20,6 +26,10 @@
 <p>
 	Caros amigos, a revolução dos costumes apresenta tendências no sentido de aprovar a manutenção das diretrizes de desenvolvimento para o futuro. Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a mobilidade dos capitais internacionais oferece uma interessante oportunidade para verificação das condições inegavelmente apropriadas.
 </p>
+
+{#each projects.slice(0, 3) as p}
+	<Project data={p} />
+{/each}
 
 <style>
 </style>

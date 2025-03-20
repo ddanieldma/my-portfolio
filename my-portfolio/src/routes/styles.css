@@ -142,11 +142,12 @@ img {
 .projects article {
 	grid-template-columns: subgrid;
 
-	grid-row: span 3;
+	/* grid-row: span 3; */
 }
 
-.projects h2 {
+.projects h3, .projects h2 {
 	margin: 0;
+	grid-row: span 3;
 }
 
 h1, h2, h3 {
