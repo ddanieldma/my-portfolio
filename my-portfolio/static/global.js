@@ -8,7 +8,7 @@ function $$ (selector, context = document) {
 // Adding navigation menu
 // Creating structure to store the links to pages
 let pages = [
-    {url: ".", title: "Home"},
+    {url: "./", title: "Home"},
     {url: "contact", title: "Contact"},
     {url: "cv", title: "Curriculum"},
     {url: "projects", title: "Projects"},
