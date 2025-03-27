@@ -8,10 +8,10 @@ function $$ (selector, context = document) {
 // Adding navigation menu
 // Creating structure to store the links to pages
 let pages = [
-    {url: "", title: "Home"},
-    {url: "contact/", title: "Contact"},
-    {url: "cv/", title: "Curriculum"},
-    {url: "projects/", title: "Projects"},
+    {url: ".", title: "Home"},
+    {url: "contact", title: "Contact"},
+    {url: "cv", title: "Curriculum"},
+    {url: "projects", title: "Projects"},
     {url: "https://github.com/ddanieldma", title: "Projects"},
 ]
 
@@ -24,11 +24,6 @@ document.body.prepend(nav)
 for (let page of pages) {
     let url = page.url
     let title = page.title
-
-    // Adding ../ to the link if we aren't at home
-    if (!ARE_WE_HOME && !url.startsWith("http")) {
-        url = "../" + url
-    }
 
     // Creating a tag
     let a = document.createElement("a")
