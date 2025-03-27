@@ -4,6 +4,7 @@
 
 <script>
     import projects from "$lib/projects.json"
+    import Project from "$lib/Project.svelte";
 </script>
 
 <h1>
@@ -12,10 +13,6 @@
 
 <div class="projects">
     {#each projects as p}
-        <article>
-            <h3>{p.title}</h3>
-            <img src={p.image} alt="" />
-            <p>{p.description}</p>
-        </article>
+        <Project data={p} />
     {/each}
 </div>
