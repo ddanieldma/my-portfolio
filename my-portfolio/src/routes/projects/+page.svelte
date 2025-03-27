@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Meus projetos</title>
+</svelte:head>
+
 <h1>
     Projects page
 </h1>

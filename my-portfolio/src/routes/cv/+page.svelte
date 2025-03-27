@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Meu currículo</title>
+</svelte:head>
+
 <div class="cv">
     <h2> Daniel de Miranda Almeida </h2>
 

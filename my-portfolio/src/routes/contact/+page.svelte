@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Entre em contato</title>
+</svelte:head>
+
 <h1>
     Contact page
 </h1>
