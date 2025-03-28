@@ -6,8 +6,6 @@
         {url: "projects/", title: "Projects"},
         {url: "https://github.com/ddanieldma", title: "Projects"},
     ]
-
-    // import { base } "$app/paths"
 </script>
 
 <nav>
