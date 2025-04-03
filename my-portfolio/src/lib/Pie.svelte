@@ -9,8 +9,19 @@
         .outerRadius(50);
 
     // Pie chart data and colors
-    let data = [1, 2]
-    let colors = ['gold', 'purple']
+    let data = [
+        1,
+        2,
+        3,
+        4,
+        5,
+        5
+    ]
+
+    // Setting automatic colors with d3
+    // Colors is now a function that returns a specific color for each 
+    // index given
+    let colors = d3.scaleOrdinal(d3.schemeTableau10)
 
     // Creating the slices with the data
     let sliceGenerator = d3.pie()
@@ -32,7 +43,7 @@
 <svg viewBox="-50 -50 100 100">
     <!-- Using d3 to auto generate the path (the thing that draws the things) -->
     {#each arcs as arc, index}
-        <path d={arc} fill={colors[index]} />
+        <path d={arc} fill={colors(index)} />
     {/each}
 
 </svg>
