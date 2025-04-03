@@ -18,12 +18,15 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          cd my-portfolio
+          npm install
 
       - name: Build Sveltekit
         env:
           BASE_PATH: "/${{ github.event.repository.name }}"
         run: |
+          cd my-portfolio
           npm run build
 
       - name: Upload Artifacts
