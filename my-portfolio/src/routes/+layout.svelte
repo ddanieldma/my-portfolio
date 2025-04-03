@@ -10,10 +10,12 @@
         {url: "https://github.com/ddanieldma", title: "Projects"},
     ]
 
-    // Variable to hold color scheme preference
-    let colorScheme = "light dark"
-
+    let localStorage = globalThis.localStorage ?? {}
     
+    // Variable to hold color scheme preference
+    let colorScheme = localStorage.colorScheme
+        ? localStorage.colorScheme
+        : "light dark"
 
     // Variable to hold the <html> element
     let root = globalThis?.document?.documentElement // the optional chaining operator "?" is added to avoid error
