@@ -27,36 +27,60 @@
 
 {#await fetch('https://api.github.com/users/ddanieldma')}
     <p>
-        Loading...
+        Carregando...
     </p>
 {:then response} 
     {#await response.json()}
         <p>
-            Decoding..
+            Decodificando...
         </p>
     {:then data}
-        <p>
-            The data is { JSON.stringify(data)}
-        </p>
+        <section>
+            <h2>Estatísicas do meu GitHub</h2>
+            <dl>
+                <dt>Followers</dt>
+                <dd>{data.followers}</dd>
+                <dt>Following</dt>
+                <dd>{data.following}</dd>
+                <dt>Public Repos</dt>
+                <dd>{data.public_repos}</dd>
+            </dl>
+        </section>
     {:catch error} <!-- error handling-->
 
         <p class="error">
-            Something went wrong: {error.message}
+            Algo de errado aconteceu: {error.message}
         </p>
 
     {/await}
 
 {:catch error}
         <p class="error">
-            Something went wrong: {error.message}
+            Algo de errado aconteceu: {error.message}
         </p>
 {/await}
 
-<!-- <h2>
-    Latest projects
-</h2>
-<div class="projects">
-    {#each projects.slice(0, 3) as p}
-        <Project data={p} hLevel=3/>
-    {/each}
-</div> -->
+<style>
+    dl{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    dt{
+        grid-row: 1;
+        font-family: inherit;
+        font-weight: bold;
+        color: var(--border-gray);
+        text-transform: uppercase;
+    }
+    dd{
+        font-family: inherit;
+        font-weight: bold;
+    }
+    section{
+        border-width:0.15em;
+        border-style:solid;
+        border-color:var(--border-gray);
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+</style>
