@@ -15,12 +15,13 @@
     }
     
     article {
+        display: grid;
         grid-template-columns: subgrid;
-
+        margin: 0.5em;
         grid-row: span 3;
     }
 
-    h2 {
+    article h2 {
         margin: 0;
     }
 
