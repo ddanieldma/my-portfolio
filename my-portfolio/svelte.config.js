@@ -6,13 +6,7 @@ const repoName = "my-portfolio";
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		adapter: adapter({
-			pages: 'build',
-			assets: 'build',
-			fallback: null,
-			precompress: false,
-			strict: true
-		}),
+		adapter: adapter({ fallback: '404.html' }),
 
 		paths: {
 			base: dev ? '' : `/${repoName}`,
