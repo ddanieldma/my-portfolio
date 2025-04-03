@@ -20,6 +20,7 @@
     // Variable to hold the <html> element
     let root = globalThis?.document?.documentElement // the optional chaining operator "?" is added to avoid error
     $: root?.style.setProperty("color-scheme", colorScheme) // "$": reactive statement: this changes every time its dependencies change
+    $: localStorage.colorScheme = colorScheme
 </script>
 
 <nav>
