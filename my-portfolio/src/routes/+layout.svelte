@@ -10,7 +10,8 @@
         {url: "https://github.com/ddanieldma", title: "Projects"},
     ]
 
-
+    // Variable to hold color scheme preference
+    let colorScheme = "light dark"
 </script>
 
 <nav>
@@ -37,7 +38,8 @@
 
 <label for="" class="color-scheme">
     Theme:
-    <select>
+    <!-- Creating reactivity by double binding values -> if one changes, the other changes too -->
+    <select bind:value={ colorScheme }>
         <option value="light dark">
             Automatic
         </option>
