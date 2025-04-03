@@ -7,7 +7,7 @@
         {url: "/contact", title: "Contact"},
         {url: "/cv", title: "Curriculum"},
         {url: "/projects", title: "Projects"},
-        {url: "https://github.com/ddanieldma", title: "Projects"},
+        {url: "https://github.com/ddanieldma", title: "GitHub"},
     ]
 
     let localStorage = globalThis.localStorage ?? {}
