@@ -54,10 +54,7 @@
     {#each data as d, index}
         <li style="--color: { colors(index) }">
             <span class="swatch"></span>
-            {d.label}
-            <em>
-                ({d.value})
-            </em>
+            {d.label} <em>({d.value})</em>
         </li>
     {/each}
 
@@ -70,6 +67,24 @@ svg {
 
     /* Do not clip shapes outside the viewBox */
     overflow: visible;
+}
+
+ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
+}
+
+li {
+    display: flex;
+    margin-bottom: 5px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.swatch {
+    background-color: var(--color);
+    width: 20px;
+    height: 20px;
 }
 
 </style>
