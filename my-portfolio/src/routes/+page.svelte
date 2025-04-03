@@ -1,6 +1,9 @@
 <script>
     import projects from "$lib/projects.json"
     import Project from "$lib/Project.svelte";
+
+    // Making API call
+    // let profileData = 
 </script>
 
 <h1> Daniel de Miranda Almeida </h1>
@@ -22,11 +25,38 @@
     Caros amigos, a revolução dos costumes apresenta tendências no sentido de aprovar a manutenção das diretrizes de desenvolvimento para o futuro. Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a mobilidade dos capitais internacionais oferece uma interessante oportunidade para verificação das condições inegavelmente apropriadas.
 </p>
 
-<h2>
+{#await fetch('https://api.github.com/users/ddanieldma')}
+    <p>
+        Loading...
+    </p>
+{:then response} 
+    {#await response.json()}
+        <p>
+            Decoding..
+        </p>
+    {:then data}
+        <p>
+            The data is { JSON.stringify(data)}
+        </p>
+    {:catch error} <!-- error handling-->
+
+        <p class="error">
+            Something went wrong: {error.message}
+        </p>
+
+    {/await}
+
+{:catch error}
+        <p class="error">
+            Something went wrong: {error.message}
+        </p>
+{/await}
+
+<!-- <h2>
     Latest projects
 </h2>
 <div class="projects">
     {#each projects.slice(0, 3) as p}
         <Project data={p} hLevel=3/>
     {/each}
-</div>
+</div> -->
