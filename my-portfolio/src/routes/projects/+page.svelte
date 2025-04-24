@@ -7,6 +7,8 @@
 
     import projects from "$lib/projects.json"
     import Project from "$lib/Project.svelte";
+
+    // --- Pie chart of projects x year ---
     import Pie from "$lib/Pie.svelte";
 
     // Defining data of pie chart using the projects data
@@ -16,16 +18,36 @@
     let pieData = rolledData.map(([year, count]) => {
         return {value: count, label: year}
     })
+
+    // --- Searching through projects ---
+    // Variable to hold the search text
+    let query = "";
+    // Filtering projects by the search. Need to be reactive to run every
+    // time we update the search input field
+    $: filteredProjects = projects.filter(project => {
+        // Searching for the whole project data (title and content)
+        let values = Object.values(project).join("\n").toLowerCase();
+        
+        return values.includes(query.toLowerCase())
+    })
 </script>
 
 <Pie data={pieData}/>
 
+<!-- Input field for the projects -->
+<input 
+    type="search"
+    bind:value={query}
+    aria-label="Search projects"
+    placeholder="🔍 Search projects..."
+/>
+
 <h1>
-    { projects.length} Projects page
+    { filteredProjects.length} Projects page
 </h1>
 
 <div class="projects">
-    {#each projects as p}
+    {#each filteredProjects as p}
         <Project data={p} />
     {/each}
 </div>
