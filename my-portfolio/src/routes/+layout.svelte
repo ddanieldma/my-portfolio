@@ -1,6 +1,7 @@
 <script>
     import { base } from "$app/paths"
     import { page } from "$app/stores"
+    import { onMount } from "svelte";
     
     let pages = [
         {url: "/", title: "Home"},
@@ -12,15 +13,52 @@
 
     let localStorage = globalThis.localStorage ?? {}
     
-    // Variable to hold color scheme preference
-    let colorScheme = localStorage.colorScheme
-        ? localStorage.colorScheme
-        : "light dark"
+    function updateColorScheme() {
+        if (root) {
+            let actualColorScheme = colorScheme;
 
-    // Variable to hold the <html> element
-    let root = globalThis?.document?.documentElement // the optional chaining operator "?" is added to avoid error
-    $: root?.style.setProperty("color-scheme", colorScheme) // "$": reactive statement: this changes every time its dependencies change
-    $: localStorage.colorScheme = colorScheme
+            if (colorScheme === 'light dark') {
+                // Using media query to detect OS preference
+                actualColorScheme = window.matchMedia('(prefers-color-scheme: dark)').matches
+                    ? 'dark'
+                    : 'light';
+            }
+            
+            root.style.setProperty('color-scheme', colorScheme)
+
+            if (actualColorScheme === 'dark'){
+                root.classList.add('dark')
+            }
+            else {
+                root.classList.remove('dark')
+            }
+            console.log('Setting color-scheme:', actualColorScheme)
+        }
+    }
+
+    // Variable to hold default color scheme preference
+    let colorScheme = 'light dark'
+    let root;
+
+    onMount(() => {
+        // Accessing localStorage in SvelteKit
+        if (typeof window !== 'undefined') {
+            colorScheme = localStorage.getItem('colorScheme') || 'light dark';
+        }
+        root = document.documentElement;
+        updateColorScheme(); // Initial application of the theme.
+        // If no theme is set, will set to 'light dark'.
+    })
+
+    // Reactive statement to update the theme and localStorage
+    $: {
+        if (root) {
+            updateColorScheme();
+        }
+        if (typeof window !== 'undefined') {
+            localStorage.setItem('colorScheme', colorScheme)
+        }
+    }
 </script>
 
 <nav>

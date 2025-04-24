@@ -1,6 +1,7 @@
 :root {
 	--grey: oklch(80% 3% 200);
 	--white: #ffffff;
+	--black: #000000;
 	--tortilla: #9a7b4f;
 	--tan: #d2b48c;
 	--mocha: #3c280d;
@@ -10,20 +11,21 @@
 	--gingerbread: #5e2c04;
 	--peanut: #745c34;
 	--tawny: #80471c;
+	
+	--background: var(--tan);
+	--font-color: var(--black);
+	--border-bottom-color-a-current: var(--mocha);
+	--border-bottom-color-nav-a: var(--tortilla);
+	--border-bottom-color-a-hover: var(--maroon);
+	--background-color-a-hover: var(--maroon-color-accent);
 }
 
-@media (prefers-color-scheme: light) {
-	body {
-		color: black;
-		background-color: var(--tan);
-	}
-}
-
-@media (prefers-color-scheme: dark) {
-	body {
-		color: white;
-		background-color: var(--wallnut);
-	}
+.dark {
+	--background: var(--wallnut);
+	--font-color: var(--white);
+	--border-bottom-color-a-current: var(--peanut);
+	--border-bottom-color-a-hover: var(--tawny);
+	--background-color-a-hover: var(--peanut);
 }
 
 body {
@@ -37,7 +39,10 @@ body {
 
 	margin-inline: max(1em, (100% - 100ch) / 2);
 	
-	padding: 1rem, 1rem, 0, 0
+	padding: 1rem, 1rem, 0, 0;
+	background-color: var(--background);
+
+	color: var(--font-color);
 }
 
 /* ========================================================= */
@@ -58,9 +63,10 @@ nav a{
 
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
+	border-bottom-color: var(--border-bottom-color-nav-a);
 }
 
-@media (prefers-color-scheme: light){
+/* @media (prefers-color-scheme: light){
 	nav a {
 		border-bottom-color: var(--tortilla);
 	}
@@ -69,15 +75,16 @@ nav a{
 	nav a {
 		border-bottom-color: var(--tortilla);
 	}
-}
+} */
 
 a.current {
 	padding-bottom: -5px;
 	border-bottom-width: 5px;
 	border-bottom-style: solid;
+	border-bottom-color: var(--border-bottom-color-a-current);
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
 	a.current {
 		border-bottom-color: var(--mocha);
 	}
@@ -86,14 +93,15 @@ a.current {
 	a.current {
 		border-bottom-color: var(--peanut);
 	}
-}
+} */
 
 a:hover {
 	padding-bottom: -5px;
 	border-bottom-width: 5px;
 	border-bottom-style: solid;
+	border-bottom-color: var(--border-bottom-color-a-hover);
 }
-@media (prefers-color-scheme: light){
+/* @media (prefers-color-scheme: light){
 	a:hover {
 		border-bottom-color: var(--maroon);
 		
@@ -106,7 +114,7 @@ a:hover {
 		
 		background-color: var(--peanut);
 	}
-}
+} */
 
 /* Contact form */
 .form input,
