@@ -1,8 +1,7 @@
 <script>
-    // Imporitng everything from d3
     import * as d3 from 'd3';
-    
-    // Creating an arc generator to support generation of circles
+
+    // Generator of arcs with radius of 50.
     let arcGenerator = d3
         .arc()
         .innerRadius(0)

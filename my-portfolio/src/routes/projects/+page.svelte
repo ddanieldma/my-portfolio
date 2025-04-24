@@ -8,6 +8,8 @@
     import Pie from "$lib/Pie.svelte";
 </script>
 
+<Pie />
+
 <h1>
     { projects.length} Projects page
 </h1>

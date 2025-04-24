@@ -1,9 +1,6 @@
 <script>
     import projects from "$lib/projects.json"
     import Project from "$lib/Project.svelte";
-
-    // Making API call
-    // let profileData = 
 </script>
 
 <h1> Daniel de Miranda Almeida </h1>
@@ -38,12 +35,18 @@
         <section>
             <h2>Estatísicas do meu GitHub</h2>
             <dl>
-                <dt>Followers</dt>
-                <dd>{data.followers}</dd>
-                <dt>Following</dt>
-                <dd>{data.following}</dd>
-                <dt>Public Repos</dt>
-                <dd>{data.public_repos}</dd>
+                <div>
+                    <dt>Followers</dt>
+                    <dd>{data.followers}</dd>
+                </div>
+                <div>
+                    <dt>Following</dt>
+                    <dd>{data.following}</dd>
+                </div>
+                <div>
+                    <dt>Public Repos</dt>
+                    <dd>{data.public_repos}</dd>
+                </div>
             </dl>
         </section>
     {:catch error} <!-- error handling-->
@@ -62,14 +65,21 @@
 
 <style>
     dl{
-        display: grid;
-        grid-template-columns: auto;
+        width: 100%;
+        
+        display: flex;
+        justify-content: space-around;
     }
+
+    dl div{
+        height: 20%;
+    }
+
     dt{
         grid-row: 1;
         font-family: inherit;
         font-weight: bold;
-        color: var(--border-gray);
+        color: var(--border-bottom-color-a-currnt);
         text-transform: uppercase;
     }
     dd{
@@ -79,8 +89,13 @@
     section{
         border-width:0.15em;
         border-style:solid;
-        border-color:var(--border-gray);
+        border-color:var(--border-bottom-color-a-currnt);
         padding-left: 1em;
         padding-right: 1em;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: center;
     }
 </style>
