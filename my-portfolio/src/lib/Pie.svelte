@@ -16,6 +16,17 @@
     // Pie chart data. Now accessible outside of the component.
     export let data = [];
 
+    // Setting variables before reactive statement
+    let arcData;
+    let arcs;
+
+    $: {
+        // Reactively calculate arcData and arcs the same way we did 
+        // before with sliceGenerator and arcGenerator
+        arcData = sliceGenerator(data);
+        arcs = arcData.map(d => arcGenerator(d));
+    }
+
     // Defining colors to go with the data using a preset palette
     let colors = d3.scaleOrdinal(d3.schemeTableau10);
     // Slice generator that uses d3.pie to generate the angles of the slices
@@ -23,10 +34,10 @@
     // field of received data
     let sliceGenerator = d3.pie().value(d => d.value);
     // Arc using the slice generator
-    let arcData = sliceGenerator(data);
-    // Creating the actual arcs using the arc data in the arc generator
-    let arcs = arcData.map(d => arcGenerator(d));
-</script>
+//     let arcData = 
+//     // Creating the actual arcs using the arc data in the arc generator
+//     let arcs = 
+// </script>
 
 <!-- Creating circle with red filling -->
 <div class="pie-chart">
