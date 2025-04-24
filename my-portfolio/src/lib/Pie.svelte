@@ -7,15 +7,14 @@
         .innerRadius(0)
         .outerRadius(50);
 
-    // Pie chart data. Improved data
-    let data = [
-        { value: 1, label: "apples" },
-        { value: 2, label: "oranges" },
-        { value: 3, label: "mangos" },
-        { value: 4, label: "pears" },
-        { value: 5, label: "limes" },
-        { value: 5, label: "cherries" }
-];
+    // Generating arc with angle values
+    let arc = arcGenerator({
+        startAngle: 0,
+        endAngle: 2 * Math.PI
+    })
+
+    // Pie chart data. Now accessible outside of the component.
+    export let data = [];
 
     // Defining colors to go with the data using a preset palette
     let colors = d3.scaleOrdinal(d3.schemeTableau10);
@@ -49,18 +48,6 @@
         {/each}
     </ul>
 </div>
-
-
-<ul class="legend">
-
-    {#each data as d, index}
-        <li style="--color: { colors(index) }">
-            <span class="swatch"></span>
-            {d.label} <em>({d.value})</em>
-        </li>
-    {/each}
-
-</ul>
 
 <style>
     svg {
@@ -113,10 +100,8 @@
         justify-content: start;
         align-items: start;
 
-        border-radius: 10%;
-        border: 1px solid var(--border-bottom-color-a-current);
-
-        padding: 1% 2.5%;
+        padding: 0;
+        margin: 0;
     }
 
     li {
