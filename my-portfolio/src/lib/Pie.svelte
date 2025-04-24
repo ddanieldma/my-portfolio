@@ -33,31 +33,39 @@
     // Defining slice generator to generate the slices based on the value 
     // field of received data
     let sliceGenerator = d3.pie().value(d => d.value);
-    // Arc using the slice generator
-//     let arcData = 
-//     // Creating the actual arcs using the arc data in the arc generator
-//     let arcs = 
-// </script>
 
-<!-- Creating circle with red filling -->
+    // --- Adding selection functionality to chart in projects page ---
+    // Variable to store the selection in the pie chart
+    export let selectedIndex = -1
+</script>
+
 <div class="pie-chart">
     <svg viewBox="-50 -50 100 100">
         {#each arcs as arc, index}
             <!-- Here we use () since colors is now a function -->
-            <path d={arc} fill={colors(index)} />
-        {/each}
-    </svg>
-    
-    <!-- Legend of the pie chart using an unordered list -->
-    <ul class="legend">
-        {#each data as d, index}
-            <li style="--color: { colors(index) }">
-                <span class="swatch"></span>
-                {d.label}
-                <em>({d.value})</em>
-            </li>
-        {/each}
-    </ul>
+            <path 
+                d={arc} fill={colors(index)} 
+                on:click={e => selectedIndex = selectedIndex === index ? -1 : index}
+                class:selected={selectedIndex === index}
+                />
+                {/each}
+            </svg>
+            
+            <!-- Legend of the pie chart using an unordered list -->
+            <ul class="legend">
+                {#each data as d, index}
+                    <li style="--color: { colors(index) }">
+                        <span
+                            class="swatch"
+                            class:selected={selectedIndex === index}
+                        ></span>
+
+                        {d.label}
+
+                        <em>({d.value})</em>
+                    </li>
+                {/each}
+            </ul>
 </div>
 
 <style>
@@ -80,6 +88,7 @@
     }
     path {
         transition: 300ms;
+        cursor: pointer;
     }
     svg:has(.selected) path:not(.selected) {
         opacity: 50%;
@@ -94,11 +103,15 @@
         
         &:is(li) {
             color: var(--color);
+            opacity: 100%;
         }
     }
 
     ul:has(.selected) li:not(.selected) {
         color: gray;
+    }
+    ul:has(.selected) li:has(.selected) {
+        color: var(--font-color);
     }
 
     path:hover {
@@ -122,6 +135,8 @@
         align-items: end;
 
         gap: 5px;
+
+        color: var(--font-color);
     }
 
     span {

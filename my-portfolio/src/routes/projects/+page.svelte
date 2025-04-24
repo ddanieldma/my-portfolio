@@ -39,24 +39,43 @@
             return {value: count, label: year}
         })
     }
+
+    // --- Updating projects when clicking in the chart ---
+    let selectedYearIndex = -1;
+    // Setting year selection with reactivity
+    let selectedYear;
+    $: selectedYear = selectedYearIndex > -1 ? pieData[selectedYearIndex].label : null;
+
+    // Filtering (the already filtered)projects by year
+    $: filteredByYear = filteredProjects.filter(project => {
+        if (selectedYear) {
+            return project.year === selectedYear;
+        }
+
+        return true;
+    })
 </script>
 
-<Pie data={pieData}/>
+<!-- Binding year index to the pie chart -->
+<Pie 
+    data={pieData}
+    bind:selectedIndex={selectedYearIndex}
+/>
 
 <!-- Input field for the projects -->
 <input 
-    type="search"
-    bind:value={query}
-    aria-label="Search projects"
-    placeholder="🔍 Search projects..."
+type="search"
+bind:value={query}
+aria-label="Search projects"
+placeholder="🔍 Search projects..."
 />
 
 <h1>
-    { filteredProjects.length} Projects page
+    { filteredByYear.length} Projects page
 </h1>
 
 <div class="projects">
-    {#each filteredProjects as p}
-        <Project data={p} />
+    {#each filteredByYear as p}
+    <Project data={p} />
     {/each}
 </div>
