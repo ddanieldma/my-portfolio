@@ -7,46 +7,49 @@
         .innerRadius(0)
         .outerRadius(50);
 
-    // Pie chart data and colors
+    // Pie chart data. Improved data
     let data = [
-        { value: 1, label: "apples"},
-        { value: 2, label: "oranges"},
-        { value: 3, label: "mangos"},
-        { value: 4, label: "pears"},
-        { value: 5, label: "limes"},
-        { value: 5, label: "cherries"},
-    ]
-    // Setting automatic colors with d3
-    // Colors is now a function that returns a specific color for each 
-    // index given
-    let colors = d3.scaleOrdinal(d3.schemeTableau10)
+        { value: 1, label: "apples" },
+        { value: 2, label: "oranges" },
+        { value: 3, label: "mangos" },
+        { value: 4, label: "pears" },
+        { value: 5, label: "limes" },
+        { value: 5, label: "cherries" }
+];
 
-    // Creating the slices with the data
-    let sliceGenerator = d3.pie().value(d => d.value) //.value funcion of pie
-    // specify what part of the data object should be represented as the 
-    // size of the slice
-
-    let arcData = sliceGenerator(data)
-
-    let arcs = arcData.map(d => arcGenerator(d))
-
-
-    // // Generating a circle using the arc generator
-    // let arc = arcGenerator({
-    //     startAngle: 0,
-    //     // Rotating 360 degrees (2pi)
-    //     endAngle: 2 * Math.PI
-    // })
-
+    // Defining colors to go with the data using a preset palette
+    let colors = d3.scaleOrdinal(d3.schemeTableau10);
+    // Slice generator that uses d3.pie to generate the angles of the slices
+    // Defining slice generator to generate the slices based on the value 
+    // field of received data
+    let sliceGenerator = d3.pie().value(d => d.value);
+    // Arc using the slice generator
+    let arcData = sliceGenerator(data);
+    // Creating the actual arcs using the arc data in the arc generator
+    let arcs = arcData.map(d => arcGenerator(d));
 </script>
 
-<svg viewBox="-50 -50 100 100">
-    <!-- Using d3 to auto generate the path (the thing that draws the things) -->
-    {#each arcs as arc, index}
-        <path d={arc} fill={colors(index)} />
-    {/each}
+<!-- Creating circle with red filling -->
+<div class="pie-chart">
+    <svg viewBox="-50 -50 100 100">
+        {#each arcs as arc, index}
+            <!-- Here we use () since colors is now a function -->
+            <path d={arc} fill={colors(index)} />
+        {/each}
+    </svg>
+    
+    <!-- Legend of the pie chart using an unordered list -->
+    <ul class="legend">
+        {#each data as d, index}
+            <li style="--color: { colors(index) }">
+                <span class="swatch"></span>
+                {d.label}
+                <em>({d.value})</em>
+            </li>
+        {/each}
+    </ul>
+</div>
 
-</svg>
 
 <ul class="legend">
 
@@ -60,30 +63,93 @@
 </ul>
 
 <style>
-svg {
-    max-width: 20em;
-    margin-block: 2em;
+    svg {
+        max-width: 20em;
+        margin-block: 2em;
 
-    /* Do not clip shapes outside the viewBox */
-    overflow: visible;
-}
+        /* Do not clip shapes outside the viewBox */
+        overflow: visible;
+    }
 
-ul {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
-}
+    .swatch {
+        background-color: var(--color);
+        width: 20px;
+        height: 20px;
+    }
 
-li {
-    display: flex;
-    margin-bottom: 5px;
-    justify-content: space-evenly;
-    align-items: center;
-}
+    svg:has(path:hover) path:not(:hover) {
+        opacity: 50%;
+    }
+    path {
+        transition: 300ms;
+    }
+    svg:has(.selected) path:not(.selected) {
+        opacity: 50%;
+    }
 
-.swatch {
-    background-color: var(--color);
-    width: 20px;
-    height: 20px;
-}
+    .selected {
+        --color: oklch(60% 45% 0) !important;
+        
+        &:is(path) {
+            fill: var(--color) !important;
+        }
+        
+        &:is(li) {
+            color: var(--color);
+        }
+    }
 
+    ul:has(.selected) li:not(.selected) {
+        color: gray;
+    }
+
+    path:hover {
+        opacity: 100% !important;
+    }
+
+    ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+
+        border-radius: 10%;
+        border: 1px solid var(--border-bottom-color-a-current);
+
+        padding: 1% 2.5%;
+    }
+
+    li {
+        display: flex;
+
+        justify-content: start;
+        align-items: end;
+
+        gap: 5px;
+    }
+
+    span {
+        /* Needed for a span element to have width and height */
+        width: 15px;
+        height: 15px;
+
+        /* Background color of the same color in the graph */
+        background-color: var(--color);
+
+        /* Small adjustment to make it look better */
+        margin-bottom: 2px;
+
+        /* Turning into a ball */
+        border-radius: 50%;
+    }
+
+    .pie-chart {
+        width: 100%;
+        
+        display: flex;
+        align-items: center;
+
+        align-self: center;
+        gap: 5%;
+    }
 </style>
