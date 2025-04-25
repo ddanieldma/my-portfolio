@@ -1,6 +1,23 @@
 <script>
     import projects from "$lib/projects.json"
     import Project from "$lib/Project.svelte";
+
+    import {onMount } from "svelte";
+
+    let githubData = null;
+    let loading = true;
+    let error = null;
+
+    onMount(async () => {
+        try{
+            const response = await fetch('https://api.github.com/users/ddanieldma')
+            githubData = await response.json()
+        }
+        catch (err) {
+            error = err;
+        }
+        loading = false
+    })
 </script>
 
 <h1> Daniel de Miranda Almeida </h1>
@@ -22,46 +39,33 @@
     Caros amigos, a revolução dos costumes apresenta tendências no sentido de aprovar a manutenção das diretrizes de desenvolvimento para o futuro. Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a mobilidade dos capitais internacionais oferece uma interessante oportunidade para verificação das condições inegavelmente apropriadas.
 </p>
 
-{#await fetch('https://api.github.com/users/ddanieldma')}
+{#if loading}
     <p>
         Carregando...
     </p>
-{:then response} 
-    {#await response.json()}
-        <p>
-            Decodificando...
-        </p>
-    {:then data}
-        <section>
-            <h2>Estatísicas do meu GitHub</h2>
-            <dl>
-                <div>
-                    <dt>Followers</dt>
-                    <dd>{data.followers}</dd>
-                </div>
-                <div>
-                    <dt>Following</dt>
-                    <dd>{data.following}</dd>
-                </div>
-                <div>
-                    <dt>Public Repos</dt>
-                    <dd>{data.public_repos}</dd>
-                </div>
-            </dl>
-        </section>
-    {:catch error} <!-- error handling-->
-
-        <p class="error">
-            Algo de errado aconteceu: {error.message}
-        </p>
-
-    {/await}
-
-{:catch error}
-        <p class="error">
-            Algo de errado aconteceu: {error.message}
-        </p>
-{/await}
+{:else if error}
+    <p class="error">
+        Algo de errado aconteceu: {error.message}
+    </p>
+{:else}
+    <section>
+        <h2>Estatísicas do meu GitHub</h2>
+        <dl>
+            <div>
+                <dt>Followers</dt>
+                <dd>{githubData.followers}</dd>
+            </div>
+            <div>
+                <dt>Following</dt>
+                <dd>{githubData.following}</dd>
+            </div>
+            <div>
+                <dt>Public Repos</dt>
+                <dd>{githubData.public_repos}</dd>
+            </div>
+        </dl>
+    </section>
+{/if}
 
 <style>
     dl{

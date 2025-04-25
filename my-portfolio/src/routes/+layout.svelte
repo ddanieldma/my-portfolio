@@ -8,6 +8,7 @@
         {url: "/contact", title: "Contact"},
         {url: "/cv", title: "Curriculum"},
         {url: "/projects", title: "Projects"},
+        {url: "/meta", title: "Meta"},
         {url: "https://github.com/ddanieldma", title: "GitHub"},
     ]
 
