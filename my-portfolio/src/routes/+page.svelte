@@ -1,6 +1,7 @@
 <script>
     import projects from "$lib/projects.json"
     import Project from "$lib/Project.svelte";
+    import Stats from "$lib/Stats.svelte";
 
     import {onMount } from "svelte";
 
@@ -8,10 +9,24 @@
     let loading = true;
     let error = null;
 
+    let dataLabels = [
+        "Followers",
+        "Following",
+        "Public Repos"
+    ]
+    let dataKeys = dataLabels.map(label => label.toLowerCase().replace(" ", "_"))
+
     onMount(async () => {
         try{
             const response = await fetch('https://api.github.com/users/ddanieldma')
             githubData = await response.json()
+            
+            githubData = Object.fromEntries(
+                dataKeys.map(key => [key, githubData[key]])
+            )
+
+            githubData = Object.values(githubData)
+            console.log("githubData", githubData)
         }
         catch (err) {
             error = err;
@@ -39,67 +54,10 @@
     Caros amigos, a revolução dos costumes apresenta tendências no sentido de aprovar a manutenção das diretrizes de desenvolvimento para o futuro. Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a mobilidade dos capitais internacionais oferece uma interessante oportunidade para verificação das condições inegavelmente apropriadas.
 </p>
 
-{#if loading}
-    <p>
-        Carregando...
-    </p>
-{:else if error}
-    <p class="error">
-        Algo de errado aconteceu: {error.message}
-    </p>
-{:else}
-    <section>
-        <h2>Estatísicas do meu GitHub</h2>
-        <dl>
-            <div>
-                <dt>Followers</dt>
-                <dd>{githubData.followers}</dd>
-            </div>
-            <div>
-                <dt>Following</dt>
-                <dd>{githubData.following}</dd>
-            </div>
-            <div>
-                <dt>Public Repos</dt>
-                <dd>{githubData.public_repos}</dd>
-            </div>
-        </dl>
-    </section>
-{/if}
-
-<style>
-    dl{
-        width: 100%;
-        
-        display: flex;
-        justify-content: space-around;
-    }
-
-    dl div{
-        height: 20%;
-    }
-
-    dt{
-        grid-row: 1;
-        font-family: inherit;
-        font-weight: bold;
-        color: var(--border-bottom-color-a-currnt);
-        text-transform: uppercase;
-    }
-    dd{
-        font-family: inherit;
-        font-weight: bold;
-    }
-    section{
-        border-width:0.15em;
-        border-style:solid;
-        border-color:var(--border-bottom-color-a-currnt);
-        padding-left: 1em;
-        padding-right: 1em;
-
-        display: flex;
-        flex-direction: column;
-        justify-content: start;
-        align-items: center;
-    }
-</style>
+<Stats 
+    sectionTitle="My GitHub stats"
+    data={githubData}
+    dataLabels={dataLabels}
+    loading={loading}
+    error={error}
+/>
