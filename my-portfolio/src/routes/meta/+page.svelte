@@ -40,7 +40,7 @@
             hourFrac: datetime.getHours() + datetime.getMinutes() / 60,
             totalLines: lines.length
         }
-        
+
         // Like ret.lines = lines
         // but non-enumerable so it doesn't show up in JSON.stringify
         Object.defineProperty(ret, "lines", {
@@ -53,10 +53,8 @@
         // Set loading to false to allow stats component to update
         loading = false
 
-        console.log(commits)
-
         return ret;
-    })
+    }).sort(d => d.totalLines)
 
     // --- Setting up data for the stats component
     let statsLabels = [
@@ -154,6 +152,13 @@
         }
     }
 
+    // --- Making the size of the dots as the number of lines edited in 
+    // the commit ---
+    // Defining the scale of the radii
+    $: rScale = d3.scaleSqrt()
+        .domain(d3.extent(commits.map(d => d.totalLines)))
+        .range([2, 30])
+
 </script>
 
 <h1>
@@ -183,7 +188,7 @@
                 
                 cx = { xScale(commit.datetime) }
                 cy = { yScale(commit.hourFrac) }
-                r="5"
+                r={ rScale(commit.totalLines) }
                 fill="steelblue"
             />
         {/each}
@@ -205,15 +210,20 @@
         <dt>Date</dt>
         <dd>{ hoveredCommit.datetime?.toLocaleString("en", {dateStyle: "full"}) }</dd>
     </div>
+    
+    <div>
+        <dt>Time</dt>
+        <dd>{ hoveredCommit.time }</dd>
+    </div>
 
     <div>
         <dt>Author</dt>
         <dd>{ hoveredCommit.author }</dd>
     </div>
-
+    
     <div>
-        <dt>Time</dt>
-        <dd>{ hoveredCommit.time }</dd>
+        <dt>Lines</dt>
+        <dd>{ hoveredCommit.totalLines }</dd>
     </div>
 
     <!-- Add: Time, author, lines edited -->
@@ -281,6 +291,9 @@
 
         &:hover {
             transform: scale(1.5);
+            fill-opacity: 1;
         }
+
+        fill-opacity: 0.2;
     }
 </style>
