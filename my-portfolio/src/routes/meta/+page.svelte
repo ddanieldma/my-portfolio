@@ -1,5 +1,6 @@
 <script>
     import * as d3 from 'd3';
+
     import { onMount } from 'svelte';
     import {
         computePosition,
@@ -8,6 +9,7 @@
     } from '@floating-ui/dom'
 
     import Stats from '$lib/Stats.svelte';
+    import Bar from '$lib/Bar.svelte';
 
     // Defining metadata data array
     let data = []
@@ -132,6 +134,11 @@
     let cursor = {x: 0, y: 0}
     let tooltipPosition = {x: 0, y: 0}
 
+    // --- Clickable commits ---
+    // Should work with a toggle switch, where we add commits that are 
+    // clicked and remove those that are clicked again
+    let clickedCommits = []
+
     async function dotInteraction(index, evt) {
         let hoveredDot = evt.target;
         
@@ -150,6 +157,17 @@
         else if (evt.type === "mouseleave") {
             hoveredIndex = -1
         }
+        else if(evt.type === "click") {
+            let commit = commits[index]
+            // Adding newly clicked commit
+            if (!clickedCommits.includes(commit)){
+                clickedCommits = [...clickedCommits, commit]
+            }
+            else {
+                clickedCommits = clickedCommits.filter(c => c !== commit)
+            }
+            console.log("clicked commits:", clickedCommits)
+        }
     }
 
     // --- Making the size of the dots as the number of lines edited in 
@@ -159,6 +177,25 @@
         .domain(d3.extent(commits.map(d => d.totalLines)))
         .range([2, 30])
 
+    // --- Bar chart ---
+    // Organizing data in suitable format
+    $: allTypes = Array.from(
+        new Set(
+            data.map(d => d.type)
+        )
+    )
+    $: selectedLines = (clickedCommits.length > 0
+        ? clickedCommits
+        : commits
+    ).flatMap(d => d.lines)
+    $: selectedCounts = d3.rollup(
+        selectedLines,
+        v => v.length,
+        d => d.type
+    )
+    $: languageBreakdown = allTypes.map(
+        type => [type, selectedCounts.get(type) || 0]
+    )
 </script>
 
 <h1>
@@ -185,7 +222,10 @@
             <circle 
                 on:mouseenter={evt => dotInteraction(index, evt)}
                 on:mouseleave={evt => dotInteraction(index, evt)}
-                
+                on:click={ evt => dotInteraction(index, evt) }
+            
+                class:selected={ clickedCommits.includes(commit) }
+
                 cx = { xScale(commit.datetime) }
                 cy = { yScale(commit.hourFrac) }
                 r={ rScale(commit.totalLines) }
@@ -194,6 +234,8 @@
         {/each}
     </g>
 </svg>
+
+<Bar data={languageBreakdown} width={width} />
 
 <dl
     class="info tooltip"
@@ -225,8 +267,6 @@
         <dt>Lines</dt>
         <dd>{ hoveredCommit.totalLines }</dd>
     </div>
-
-    <!-- Add: Time, author, lines edited -->
 </dl>
 
 <Stats 
@@ -295,5 +335,11 @@
         }
 
         fill-opacity: 0.2;
+    }
+
+    .selected {
+        fill-opacity: 1;
+        
+        fill: var(--border-bottom-color-a-current);
     }
 </style>
