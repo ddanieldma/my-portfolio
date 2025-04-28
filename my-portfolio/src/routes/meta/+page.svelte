@@ -1,6 +1,11 @@
 <script>
     import * as d3 from 'd3';
     import { onMount } from 'svelte';
+    import {
+        computePosition,
+        autoPlacement,
+        offset,
+    } from '@floating-ui/dom'
 
     import Stats from '$lib/Stats.svelte';
 
@@ -118,6 +123,37 @@
                 .tickSize(-usableArea.width)
         )
     }
+
+    // --- Adding tooltip ---
+    let hoveredIndex = -1
+    $: hoveredCommit = commits[hoveredIndex] ?? hoveredCommit ?? {}
+
+    // Using floating UI to make an improved tooltip
+    let commitTooltip;
+    // Making it follow the mouse
+    let cursor = {x: 0, y: 0}
+    let tooltipPosition = {x: 0, y: 0}
+
+    async function dotInteraction(index, evt) {
+        let hoveredDot = evt.target;
+        
+        if (evt.type === "mouseenter") {
+            hoveredIndex = index
+            cursor = {x: evt.x, y: evt.y}
+
+            tooltipPosition = await computePosition(hoveredDot, commitTooltip, {
+                strategy: "fixed", // because we use position fixed
+                middleware: [
+                    offset(5), // spacing from tooltip to dot
+                    autoPlacement()
+                ],
+            })
+        }
+        else if (evt.type === "mouseleave") {
+            hoveredIndex = -1
+        }
+    }
+
 </script>
 
 <h1>
@@ -142,6 +178,9 @@
     <g class="dots">
         {#each commits as commit, index}
             <circle 
+                on:mouseenter={evt => dotInteraction(index, evt)}
+                on:mouseleave={evt => dotInteraction(index, evt)}
+                
                 cx = { xScale(commit.datetime) }
                 cy = { yScale(commit.hourFrac) }
                 r="5"
@@ -150,6 +189,35 @@
         {/each}
     </g>
 </svg>
+
+<dl
+    class="info tooltip"
+    hidden={hoveredIndex === -1}
+    style = "top: {tooltipPosition.y}px; left: {tooltipPosition.x}px"
+    bind:this={commitTooltip}
+>
+    <div>
+        <dt>Commit</dt>
+        <dd><a href="{ hoveredCommit.url }" target="_blank">{ hoveredCommit.id }</a></dd>
+    </div>
+
+    <div>
+        <dt>Date</dt>
+        <dd>{ hoveredCommit.datetime?.toLocaleString("en", {dateStyle: "full"}) }</dd>
+    </div>
+
+    <div>
+        <dt>Author</dt>
+        <dd>{ hoveredCommit.author }</dd>
+    </div>
+
+    <div>
+        <dt>Time</dt>
+        <dd>{ hoveredCommit.time }</dd>
+    </div>
+
+    <!-- Add: Time, author, lines edited -->
+</dl>
 
 <Stats 
     sectionTitle="Summary"
@@ -168,4 +236,51 @@
         stroke-opacity: .2;
     }
 
+    .info{
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+
+        margin: 0;
+        padding:10px;
+
+        background-color: oklch(100% 0% 0 / 80%);
+        box-shadow: 1px 1px 3px 3px gray;
+        border-radius: 5px;
+        backdrop-filter: blur(10px);
+        
+        transition-duration: 500ms;
+        transition-property: opacity, visibility;
+
+        &[hidden]:not(:hover, :focus-within){
+            opacity: 0;
+            visibility: hidden;
+        }
+    }
+
+    .info div {
+        display: flex;
+        align-items: center;
+    }
+
+    .info dd{
+        font-weight: 400;
+    }
+
+    .tooltip{
+        position: fixed;
+        top: 1em;
+        left: 1em;
+    }
+
+    circle {
+        transition: 200ms;
+
+        transform-origin: center;
+        transform-box: fill-box;
+
+        &:hover {
+            transform: scale(1.5);
+        }
+    }
 </style>
