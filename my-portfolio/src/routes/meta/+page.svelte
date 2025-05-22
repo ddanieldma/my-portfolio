@@ -22,7 +22,7 @@
     // --- Fetching and using codebase data ---
     onMount(async () => {
         // Fetching and ensuring correct types in data
-        data = await d3.csv('./loc.csv', row => ({
+        data = await d3.csv('./data/loc.csv', row => ({
             ...row,
             line: Number(row.line),
             depth: Number(row.depth),
