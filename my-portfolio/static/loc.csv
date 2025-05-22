@@ -1,0 +1,1440 @@
+file,line,type,commit,author,date,time,timezone,datetime,depth,length
+static\style.css,1,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,6
+static\style.css,2,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,25
+static\style.css,3,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,16
+static\style.css,4,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,16
+static\style.css,5,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,19
+static\style.css,6,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,14
+static\style.css,7,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,16
+static\style.css,8,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,17
+static\style.css,9,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,59
+static\style.css,10,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,18
+static\style.css,11,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,22
+static\style.css,12,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,17
+static\style.css,13,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,16
+static\style.css,14,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,0
+static\style.css,15,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,24
+static\style.css,16,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,26
+static\style.css,17,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,45
+static\style.css,18,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,44
+static\style.css,19,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,44
+static\style.css,20,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,54
+static\style.css,21,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,22,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,23,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,6
+static\style.css,24,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,28
+static\style.css,25,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,26
+static\style.css,26,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,46
+static\style.css,27,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,43
+static\style.css,28,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,41
+static\style.css,29,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,30,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,31,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,5
+static\style.css,32,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,44
+static\style.css,33,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,43
+static\style.css,34,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,1
+static\style.css,35,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,24
+static\style.css,36,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,60
+static\style.css,37,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,38,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,16
+static\style.css,39,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,40,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,43
+static\style.css,41,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,0
+static\style.css,42,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,25
+static\style.css,43,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,35
+static\style.css,44,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+static\style.css,45,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,24
+static\style.css,46,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,47,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,48,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,62
+static\style.css,49,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,11
+static\style.css,50,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,4
+static\style.css,51,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,13
+static\style.css,52,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,53,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,54,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,17
+static\style.css,55,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,5
+static\style.css,56,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,7
+static\style.css,57,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,58,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,21
+static\style.css,59,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,54
+static\style.css,60,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,18
+static\style.css,61,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,62,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,14
+static\style.css,63,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,64,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,24
+static\style.css,65,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,26
+static\style.css,66,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,53
+static\style.css,67,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,68,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,69,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,39
+static\style.css,70,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,6
+static\style.css,71,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,36
+static\style.css,72,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,0
+static\style.css,73,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,74,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,35
+static\style.css,75,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,6
+static\style.css,76,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,36
+static\style.css,77,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,0
+static\style.css,78,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,3
+static\style.css,79,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,80,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,10
+static\style.css,81,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,20
+static\style.css,82,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,24
+static\style.css,83,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,26
+static\style.css,84,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,57
+static\style.css,85,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,86,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,87,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,40
+static\style.css,88,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,10
+static\style.css,89,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,33
+static\style.css,90,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,0
+static\style.css,91,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,92,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,36
+static\style.css,93,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,10
+static\style.css,94,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,34
+static\style.css,95,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,0
+static\style.css,96,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,3
+static\style.css,97,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,98,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,8
+static\style.css,99,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,20
+static\style.css,100,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,24
+static\style.css,101,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,26
+static\style.css,102,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,1,55
+static\style.css,103,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,104,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,39
+static\style.css,105,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,8
+static\style.css,106,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,34
+static\style.css,107,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,0
+static\style.css,108,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,44
+static\style.css,109,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,0
+static\style.css,110,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,111,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,35
+static\style.css,112,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,8
+static\style.css,113,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,33
+static\style.css,114,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,0
+static\style.css,115,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,31
+static\style.css,116,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,0
+static\style.css,117,css,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,3
+static\style.css,118,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,119,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,17
+static\style.css,120,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,11
+static\style.css,121,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,14
+static\style.css,122,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,14
+static\style.css,123,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,13
+static\style.css,124,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,19
+static\style.css,125,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,126,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,127,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,11
+static\style.css,128,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,13
+static\style.css,129,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,130,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,31
+static\style.css,131,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,8
+static\style.css,132,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,133,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,134,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,17
+static\style.css,135,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,13
+static\style.css,136,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,30
+static\style.css,137,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,138,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,11
+static\style.css,139,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,13
+static\style.css,140,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,19
+static\style.css,141,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,142,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,143,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,18
+static\style.css,144,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,10
+static\style.css,145,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,13
+static\style.css,146,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,59
+static\style.css,147,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,15
+static\style.css,148,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,14
+static\style.css,149,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,150,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,151,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,11
+static\style.css,152,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,18
+static\style.css,153,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,154,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,155,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,12
+static\style.css,156,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,4
+static\style.css,157,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,13
+static\style.css,158,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,31
+static\style.css,159,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,160,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\style.css,161,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,12
+static\style.css,162,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,10
+static\style.css,163,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,30
+static\style.css,164,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,19
+static\style.css,165,css,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\global.js,1,js,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,43
+static\global.js,2,js,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,70
+static\global.js,3,js,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+static\global.js,4,js,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,43
+static\global.js,5,js,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,53
+static\global.js,6,js,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+src\app.html,1,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,14
+src\app.html,2,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,15
+src\app.html,3,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,5
+src\app.html,4,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,23
+src\app.html,5,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,56
+src\app.html,6,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,52
+src\app.html,7,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,15
+src\app.html,8,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+src\app.html,9,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,6
+src\app.html,10,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,3,24
+src\app.html,11,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,7
+src\app.html,12,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+src\app.html,13,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,60
+src\app.html,14,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,0
+src\app.html,15,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,65
+src\app.html,16,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,6
+src\app.html,17,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,41
+src\app.html,18,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,2,52
+src\app.html,19,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,1,6
+src\app.html,20,html,d234fdf6,Daniel de Miranda Almeida,2025-03-27,11:45:14,-03:00,2025-03-27T11:45:14-03:00,0,6
+src\routes\+page.svelte,1,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,7
+src\routes\+page.svelte,2,js,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,40
+src\routes\+page.svelte,3,js,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,41
+src\routes\+page.svelte,4,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,37
+src\routes\+page.svelte,5,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,0
+src\routes\+page.svelte,6,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,31
+src\routes\+page.svelte,7,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,0
+src\routes\+page.svelte,8,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,21
+src\routes\+page.svelte,9,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,18
+src\routes\+page.svelte,10,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,16
+src\routes\+page.svelte,11,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,0
+src\routes\+page.svelte,12,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,17
+src\routes\+page.svelte,13,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,11
+src\routes\+page.svelte,14,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,11
+src\routes\+page.svelte,15,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,13
+src\routes\+page.svelte,16,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,0
+src\routes\+page.svelte,17,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,76
+src\routes\+page.svelte,18,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,0
+src\routes\+page.svelte,19,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,20
+src\routes\+page.svelte,20,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,3
+src\routes\+page.svelte,21,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,70
+src\routes\+page.svelte,22,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,33
+src\routes\+page.svelte,23,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,0
+src\routes\+page.svelte,24,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,31
+src\routes\+page.svelte,25,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,42
+src\routes\+page.svelte,26,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,0
+src\routes\+page.svelte,27,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,0
+src\routes\+page.svelte,28,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,37
+src\routes\+page.svelte,29,js,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,36
+src\routes\+page.svelte,30,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,0
+src\routes\+page.svelte,31,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,12
+src\routes\+page.svelte,32,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,11
+src\routes\+page.svelte,33,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,0
+src\routes\+page.svelte,34,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,14
+src\routes\+page.svelte,35,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,1
+src\routes\+page.svelte,36,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,8
+src\routes\+page.svelte,37,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\routes\+page.svelte,38,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,35
+src\routes\+page.svelte,39,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\+page.svelte,40,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,61
+src\routes\+page.svelte,41,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\+page.svelte,42,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,84
+src\routes\+page.svelte,43,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\+page.svelte,44,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,2
+src\routes\+page.svelte,45,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,355
+src\routes\+page.svelte,46,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\+page.svelte,47,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,2
+src\routes\+page.svelte,48,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,219
+src\routes\+page.svelte,49,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\+page.svelte,50,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,2
+src\routes\+page.svelte,51,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,277
+src\routes\+page.svelte,52,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\+page.svelte,53,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,2
+src\routes\+page.svelte,54,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,355
+src\routes\+page.svelte,55,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,3
+src\routes\+page.svelte,56,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\routes\+page.svelte,57,svelte,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,5
+src\routes\+page.svelte,58,svelte,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,29
+src\routes\+page.svelte,59,svelte,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,16
+src\routes\+page.svelte,60,svelte,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,22
+src\routes\+page.svelte,61,svelte,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,16
+src\routes\+page.svelte,62,svelte,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,12
+src\routes\+page.svelte,63,svelte,e8f599eb,ddanieldma,2025-04-26,20:42:08,-03:00,2025-04-26T20:42:08-03:00,0,1
+src\routes\+layout.svelte,1,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,7
+src\routes\+layout.svelte,2,js,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,32
+src\routes\+layout.svelte,3,js,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,33
+src\routes\+layout.svelte,4,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,32
+src\routes\+layout.svelte,5,js,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,6,js,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,12
+src\routes\+layout.svelte,7,js,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,25
+src\routes\+layout.svelte,8,js,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,35
+src\routes\+layout.svelte,9,js,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,33
+src\routes\+layout.svelte,10,js,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,37
+src\routes\+layout.svelte,11,js,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,29
+src\routes\+layout.svelte,12,js,4ad25754,ddanieldma,2025-04-02,21:21:30,-03:00,2025-04-02T21:21:30-03:00,0,55
+src\routes\+layout.svelte,13,js,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\routes\+layout.svelte,14,js,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,0
+src\routes\+layout.svelte,15,js,4a43fedd,ddanieldma,2025-04-02,21:20:05,-03:00,2025-04-02T21:20:05-03:00,0,47
+src\routes\+layout.svelte,16,js,a573b7b9,ddanieldma,2025-04-02,21:17:59,-03:00,2025-04-02T21:17:59-03:00,0,0
+src\routes\+layout.svelte,17,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,29
+src\routes\+layout.svelte,18,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,10
+src\routes\+layout.svelte,19,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,35
+src\routes\+layout.svelte,20,js,a573b7b9,ddanieldma,2025-04-02,21:17:59,-03:00,2025-04-02T21:17:59-03:00,0,0
+src\routes\+layout.svelte,21,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,34
+src\routes\+layout.svelte,22,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,43
+src\routes\+layout.svelte,23,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,76
+src\routes\+layout.svelte,24,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,7
+src\routes\+layout.svelte,25,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,9
+src\routes\+layout.svelte,26,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,27,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,28,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,50
+src\routes\+layout.svelte,29,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,30,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,33
+src\routes\+layout.svelte,31,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,25
+src\routes\+layout.svelte,32,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,33,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,5
+src\routes\+layout.svelte,34,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,28
+src\routes\+layout.svelte,35,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,36,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,54
+src\routes\+layout.svelte,37,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,38,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,39,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,40,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,50
+src\routes\+layout.svelte,41,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,29
+src\routes\+layout.svelte,42,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,8
+src\routes\+layout.svelte,43,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,44,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,14
+src\routes\+layout.svelte,45,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,37
+src\routes\+layout.svelte,46,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,35
+src\routes\+layout.svelte,47,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,65
+src\routes\+layout.svelte,48,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,49,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,31
+src\routes\+layout.svelte,50,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,56
+src\routes\+layout.svelte,51,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,47
+src\routes\+layout.svelte,52,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,1
+src\routes\+layout.svelte,53,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,54,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,57
+src\routes\+layout.svelte,55,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,3
+src\routes\+layout.svelte,56,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,10
+src\routes\+layout.svelte,57,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,19
+src\routes\+layout.svelte,58,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,59,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,35
+src\routes\+layout.svelte,60,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,47
+src\routes\+layout.svelte,61,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,62,js,4de89566,ddanieldma,2025-04-24,10:27:55,-03:00,2025-04-24T10:27:55-03:00,0,0
+src\routes\+layout.svelte,63,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,8
+src\routes\+layout.svelte,64,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\routes\+layout.svelte,65,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,4
+src\routes\+layout.svelte,66,svelte,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,25
+src\routes\+layout.svelte,67,svelte,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,1
+src\routes\+layout.svelte,68,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,5
+src\routes\+layout.svelte,69,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,33
+src\routes\+layout.svelte,70,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,14
+src\routes\+layout.svelte,71,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,24
+src\routes\+layout.svelte,72,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,73,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,74,svelte,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,49
+src\routes\+layout.svelte,75,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,76,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,7
+src\routes\+layout.svelte,77,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,33
+src\routes\+layout.svelte,78,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,9
+src\routes\+layout.svelte,79,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,8
+src\routes\+layout.svelte,80,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,81,svelte,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,0
+src\routes\+layout.svelte,82,svelte,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,16
+src\routes\+layout.svelte,83,svelte,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,3
+src\routes\+layout.svelte,84,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,6
+src\routes\+layout.svelte,85,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,5
+src\routes\+layout.svelte,86,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\routes\+layout.svelte,87,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,34
+src\routes\+layout.svelte,88,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,5
+src\routes\+layout.svelte,89,svelte,b561d805,ddanieldma,2025-04-02,21:12:12,-03:00,2025-04-02T21:12:12-03:00,0,93
+src\routes\+layout.svelte,90,svelte,b561d805,ddanieldma,2025-04-02,21:12:12,-03:00,2025-04-02T21:12:12-03:00,0,34
+src\routes\+layout.svelte,91,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,26
+src\routes\+layout.svelte,92,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,8
+src\routes\+layout.svelte,93,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,8
+src\routes\+layout.svelte,94,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,21
+src\routes\+layout.svelte,95,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,4
+src\routes\+layout.svelte,96,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,8
+src\routes\+layout.svelte,97,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,20
+src\routes\+layout.svelte,98,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,3
+src\routes\+layout.svelte,99,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,8
+src\routes\+layout.svelte,100,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,8
+src\routes\+layout.svelte,101,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,7
+src\routes\+layout.svelte,102,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,103,svelte,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,7
+src\routes\+layout.svelte,104,svelte,399d7c2c,Daniel de Miranda Almeida,2025-03-28,13:53:15,-03:00,2025-03-28T13:53:15-03:00,0,0
+src\routes\+layout.svelte,105,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,6
+src\routes\+layout.svelte,106,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,19
+src\routes\+layout.svelte,107,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,14
+src\routes\+layout.svelte,108,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,18
+src\routes\+layout.svelte,109,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,0
+src\routes\+layout.svelte,110,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,9
+src\routes\+layout.svelte,111,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,11
+src\routes\+layout.svelte,112,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,113,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,20
+src\routes\+layout.svelte,114,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,8
+src\routes\+layout.svelte,115,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,116,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,20
+src\routes\+layout.svelte,117,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,1,14
+src\routes\+layout.svelte,118,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,0
+src\routes\+layout.svelte,119,svelte,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,7
+src\routes\projects\+page.svelte,1,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,12
+src\routes\projects\+page.svelte,2,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,27
+src\routes\projects\+page.svelte,3,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,13
+src\routes\projects\+page.svelte,4,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,0
+src\routes\projects\+page.svelte,5,svelte,5c3a48f6,Daniel de Miranda Almeida,2025-03-27,12:06:11,-03:00,2025-03-27T12:06:11-03:00,0,7
+src\routes\projects\+page.svelte,6,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,24
+src\routes\projects\+page.svelte,7,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,0
+src\routes\projects\+page.svelte,8,js,5c3a48f6,Daniel de Miranda Almeida,2025-03-27,12:06:11,-03:00,2025-03-27T12:06:11-03:00,0,40
+src\routes\projects\+page.svelte,9,js,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,41
+src\routes\projects\+page.svelte,10,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,0
+src\routes\projects\+page.svelte,11,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,36
+src\routes\projects\+page.svelte,12,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,34
+src\routes\projects\+page.svelte,13,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,14
+src\routes\projects\+page.svelte,14,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,68
+src\routes\projects\+page.svelte,15,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,39
+src\routes\projects\+page.svelte,16,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,49
+src\routes\projects\+page.svelte,17,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,58
+src\routes\projects\+page.svelte,18,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,60
+src\routes\projects\+page.svelte,19,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,0
+src\routes\projects\+page.svelte,20,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,42
+src\routes\projects\+page.svelte,21,js,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,1
+src\routes\projects\+page.svelte,22,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,0
+src\routes\projects\+page.svelte,23,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,38
+src\routes\projects\+page.svelte,24,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,33
+src\routes\projects\+page.svelte,25,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,0
+src\routes\projects\+page.svelte,26,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,11
+src\routes\projects\+page.svelte,27,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,68
+src\routes\projects\+page.svelte,28,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,42
+src\routes\projects\+page.svelte,29,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,3
+src\routes\projects\+page.svelte,30,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,30
+src\routes\projects\+page.svelte,31,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,12
+src\routes\projects\+page.svelte,32,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,0
+src\routes\projects\+page.svelte,33,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,61
+src\routes\projects\+page.svelte,34,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,61
+src\routes\projects\+page.svelte,35,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,72
+src\routes\projects\+page.svelte,36,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,0
+src\routes\projects\+page.svelte,37,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,66
+src\routes\projects\+page.svelte,38,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,44
+src\routes\projects\+page.svelte,39,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,33
+src\routes\projects\+page.svelte,40,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,1
+src\routes\projects\+page.svelte,41,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,0
+src\routes\projects\+page.svelte,42,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\routes\projects\+page.svelte,43,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,54
+src\routes\projects\+page.svelte,44,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,26
+src\routes\projects\+page.svelte,45,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,40
+src\routes\projects\+page.svelte,46,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,16
+src\routes\projects\+page.svelte,47,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,82
+src\routes\projects\+page.svelte,48,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\routes\projects\+page.svelte,49,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,50
+src\routes\projects\+page.svelte,50,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,55
+src\routes\projects\+page.svelte,51,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,18
+src\routes\projects\+page.svelte,52,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,36
+src\routes\projects\+page.svelte,53,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\routes\projects\+page.svelte,54,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\routes\projects\+page.svelte,55,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,11
+src\routes\projects\+page.svelte,56,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,1
+src\routes\projects\+page.svelte,57,svelte,5c3a48f6,Daniel de Miranda Almeida,2025-03-27,12:06:11,-03:00,2025-03-27T12:06:11-03:00,0,8
+src\routes\projects\+page.svelte,58,svelte,5c3a48f6,Daniel de Miranda Almeida,2025-03-27,12:06:11,-03:00,2025-03-27T12:06:11-03:00,0,0
+src\routes\projects\+page.svelte,59,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,43
+src\routes\projects\+page.svelte,60,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,3
+src\routes\projects\+page.svelte,61,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,13
+src\routes\projects\+page.svelte,62,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,37
+src\routes\projects\+page.svelte,63,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,1
+src\routes\projects\+page.svelte,64,svelte,c5b42618,ddanieldma,2025-04-24,14:35:04,-03:00,2025-04-24T14:35:04-03:00,0,0
+src\routes\projects\+page.svelte,65,svelte,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,36
+src\routes\projects\+page.svelte,66,svelte,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,5
+src\routes\projects\+page.svelte,67,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,12
+src\routes\projects\+page.svelte,68,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,17
+src\routes\projects\+page.svelte,69,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,27
+src\routes\projects\+page.svelte,70,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,34
+src\routes\projects\+page.svelte,71,svelte,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,1
+src\routes\projects\+page.svelte,72,svelte,9400aef9,ddanieldma,2025-04-24,14:47:36,-03:00,2025-04-24T14:47:36-03:00,0,0
+src\routes\projects\+page.svelte,73,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\projects\+page.svelte,74,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,37
+src\routes\projects\+page.svelte,75,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\projects\+page.svelte,76,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\projects\+page.svelte,77,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,21
+src\routes\projects\+page.svelte,78,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,26
+src\routes\projects\+page.svelte,79,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,19
+src\routes\projects\+page.svelte,80,svelte,5c3a48f6,Daniel de Miranda Almeida,2025-03-27,12:06:11,-03:00,2025-03-27T12:06:11-03:00,0,6
+src\routes\projects\+page.svelte,81,svelte,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,5
+src\routes\meta\Scatterplot.svelte,1,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,7
+src\routes\meta\Scatterplot.svelte,2,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,24
+src\routes\meta\Scatterplot.svelte,3,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,4,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,7
+src\routes\meta\Scatterplot.svelte,5,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,6,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,13
+src\routes\meta\Scatterplot.svelte,7,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,6
+src\routes\meta\Scatterplot.svelte,8,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,24
+src\routes\meta\Scatterplot.svelte,9,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,10,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,22
+src\routes\meta\Scatterplot.svelte,11,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\Scatterplot.svelte,12,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,13,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,36
+src\routes\meta\Scatterplot.svelte,14,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,30
+src\routes\meta\Scatterplot.svelte,15,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,16,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,36
+src\routes\meta\Scatterplot.svelte,17,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,55
+src\routes\meta\Scatterplot.svelte,18,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,19,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\Scatterplot.svelte,20,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,21,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,27
+src\routes\meta\Scatterplot.svelte,22,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,30
+src\routes\meta\Scatterplot.svelte,23,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\Scatterplot.svelte,24,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,25,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,52
+src\routes\meta\Scatterplot.svelte,26,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,53
+src\routes\meta\Scatterplot.svelte,27,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,28,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,44
+src\routes\meta\Scatterplot.svelte,29,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,44
+src\routes\meta\Scatterplot.svelte,30,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,36
+src\routes\meta\Scatterplot.svelte,31,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,54
+src\routes\meta\Scatterplot.svelte,32,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,33,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,25
+src\routes\meta\Scatterplot.svelte,34,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,33
+src\routes\meta\Scatterplot.svelte,35,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,42
+src\routes\meta\Scatterplot.svelte,36,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,7
+src\routes\meta\Scatterplot.svelte,37,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,38,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,27
+src\routes\meta\Scatterplot.svelte,39,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,40,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,42
+src\routes\meta\Scatterplot.svelte,41,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,42,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,34
+src\routes\meta\Scatterplot.svelte,43,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,44,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,3
+src\routes\meta\Scatterplot.svelte,45,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,43
+src\routes\meta\Scatterplot.svelte,46,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,47,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,21
+src\routes\meta\Scatterplot.svelte,48,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,18
+src\routes\meta\Scatterplot.svelte,49,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,11
+src\routes\meta\Scatterplot.svelte,50,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,19
+src\routes\meta\Scatterplot.svelte,51,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,23
+src\routes\meta\Scatterplot.svelte,52,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,53,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,54,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,55,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,56,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\Scatterplot.svelte,57,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,3
+src\routes\meta\Scatterplot.svelte,58,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,30
+src\routes\meta\Scatterplot.svelte,59,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,18
+src\routes\meta\Scatterplot.svelte,60,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,14
+src\routes\meta\Scatterplot.svelte,61,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,27
+src\routes\meta\Scatterplot.svelte,62,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,63,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,64,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,65,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,24
+src\routes\meta\Scatterplot.svelte,66,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,21
+src\routes\meta\Scatterplot.svelte,67,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,24
+src\routes\meta\Scatterplot.svelte,68,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,69,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,20
+src\routes\meta\Scatterplot.svelte,70,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,62
+src\routes\meta\Scatterplot.svelte,71,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,72,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,47
+src\routes\meta\Scatterplot.svelte,73,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\Scatterplot.svelte,74,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,28
+src\routes\meta\Scatterplot.svelte,75,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,33
+src\routes\meta\Scatterplot.svelte,76,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,77,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,27
+src\routes\meta\Scatterplot.svelte,78,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,65
+src\routes\meta\Scatterplot.svelte,79,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,49
+src\routes\meta\Scatterplot.svelte,80,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,29
+src\routes\meta\Scatterplot.svelte,81,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,82,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,42
+src\routes\meta\Scatterplot.svelte,83,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,27
+src\routes\meta\Scatterplot.svelte,84,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,85,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,31
+src\routes\meta\Scatterplot.svelte,86,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,19
+src\routes\meta\Scatterplot.svelte,87,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,28
+src\routes\meta\Scatterplot.svelte,88,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,89,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,67
+src\routes\meta\Scatterplot.svelte,90,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,50
+src\routes\meta\Scatterplot.svelte,91,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,12
+src\routes\meta\Scatterplot.svelte,92,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,40
+src\routes\meta\Scatterplot.svelte,93,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,14
+src\routes\meta\Scatterplot.svelte,94,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,1
+src\routes\meta\Scatterplot.svelte,95,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,1
+src\routes\meta\Scatterplot.svelte,96,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,97,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,36
+src\routes\meta\Scatterplot.svelte,98,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,16
+src\routes\meta\Scatterplot.svelte,99,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,100,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,30
+src\routes\meta\Scatterplot.svelte,101,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,26
+src\routes\meta\Scatterplot.svelte,102,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,29
+src\routes\meta\Scatterplot.svelte,103,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,37
+src\routes\meta\Scatterplot.svelte,104,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,43
+src\routes\meta\Scatterplot.svelte,105,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,106,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\Scatterplot.svelte,107,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,56
+src\routes\meta\Scatterplot.svelte,108,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,109,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,46
+src\routes\meta\Scatterplot.svelte,110,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,111,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,112,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,113,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,66
+src\routes\meta\Scatterplot.svelte,114,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,16
+src\routes\meta\Scatterplot.svelte,115,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,33
+src\routes\meta\Scatterplot.svelte,116,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,25
+src\routes\meta\Scatterplot.svelte,117,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,49
+src\routes\meta\Scatterplot.svelte,118,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,14
+src\routes\meta\Scatterplot.svelte,119,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,8
+src\routes\meta\Scatterplot.svelte,120,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,121,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,35
+src\routes\meta\Scatterplot.svelte,122,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,27
+src\routes\meta\Scatterplot.svelte,123,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,93
+src\routes\meta\Scatterplot.svelte,124,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,125,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,21
+src\routes\meta\Scatterplot.svelte,126,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,68
+src\routes\meta\Scatterplot.svelte,127,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,66
+src\routes\meta\Scatterplot.svelte,128,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,129,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,130,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,70
+src\routes\meta\Scatterplot.svelte,131,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,33
+src\routes\meta\Scatterplot.svelte,132,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,133,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,43
+src\routes\meta\Scatterplot.svelte,134,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,6
+src\routes\meta\Scatterplot.svelte,135,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,48
+src\routes\meta\Scatterplot.svelte,136,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,48
+src\routes\meta\Scatterplot.svelte,137,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,45
+src\routes\meta\Scatterplot.svelte,138,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,139,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,49
+src\routes\meta\Scatterplot.svelte,140,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,141,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,31
+src\routes\meta\Scatterplot.svelte,142,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,31
+src\routes\meta\Scatterplot.svelte,143,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,30
+src\routes\meta\Scatterplot.svelte,144,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,145,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,1
+src\routes\meta\Scatterplot.svelte,146,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,6
+src\routes\meta\Scatterplot.svelte,147,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,3
+src\routes\meta\Scatterplot.svelte,148,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\Scatterplot.svelte,149,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,150,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,2
+src\routes\meta\Scatterplot.svelte,151,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,19
+src\routes\meta\Scatterplot.svelte,152,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,27
+src\routes\meta\Scatterplot.svelte,153,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,64
+src\routes\meta\Scatterplot.svelte,154,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,24
+src\routes\meta\Scatterplot.svelte,155,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,156,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,4
+src\routes\meta\Scatterplot.svelte,157,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,14
+src\routes\meta\Scatterplot.svelte,158,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,80
+src\routes\meta\Scatterplot.svelte,159,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\Scatterplot.svelte,160,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,161,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,4
+src\routes\meta\Scatterplot.svelte,162,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,12
+src\routes\meta\Scatterplot.svelte,163,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,77
+src\routes\meta\Scatterplot.svelte,164,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\Scatterplot.svelte,165,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,166,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,4
+src\routes\meta\Scatterplot.svelte,167,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,12
+src\routes\meta\Scatterplot.svelte,168,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,30
+src\routes\meta\Scatterplot.svelte,169,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\Scatterplot.svelte,170,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,171,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,4
+src\routes\meta\Scatterplot.svelte,172,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,14
+src\routes\meta\Scatterplot.svelte,173,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,32
+src\routes\meta\Scatterplot.svelte,174,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\Scatterplot.svelte,175,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,176,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,4
+src\routes\meta\Scatterplot.svelte,177,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,13
+src\routes\meta\Scatterplot.svelte,178,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,36
+src\routes\meta\Scatterplot.svelte,179,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\Scatterplot.svelte,180,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,4
+src\routes\meta\Scatterplot.svelte,181,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,182,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,6
+src\routes\meta\Scatterplot.svelte,183,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,4
+src\routes\meta\Scatterplot.svelte,184,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\Scatterplot.svelte,185,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,186,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,187,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,11
+src\routes\meta\Scatterplot.svelte,188,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,18
+src\routes\meta\Scatterplot.svelte,189,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,190,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,191,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\Scatterplot.svelte,192,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,13
+src\routes\meta\Scatterplot.svelte,193,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,22
+src\routes\meta\Scatterplot.svelte,194,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,18
+src\routes\meta\Scatterplot.svelte,195,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,196,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,9
+src\routes\meta\Scatterplot.svelte,197,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,12
+src\routes\meta\Scatterplot.svelte,198,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,199,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,40
+src\routes\meta\Scatterplot.svelte,200,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,32
+src\routes\meta\Scatterplot.svelte,201,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,18
+src\routes\meta\Scatterplot.svelte,202,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,27
+src\routes\meta\Scatterplot.svelte,203,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,204,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,26
+src\routes\meta\Scatterplot.svelte,205,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,40
+src\routes\meta\Scatterplot.svelte,206,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,207,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,36
+src\routes\meta\Scatterplot.svelte,208,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,10
+src\routes\meta\Scatterplot.svelte,209,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,18
+src\routes\meta\Scatterplot.svelte,210,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,211,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,212,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,213,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,10
+src\routes\meta\Scatterplot.svelte,214,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,13
+src\routes\meta\Scatterplot.svelte,215,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,19
+src\routes\meta\Scatterplot.svelte,216,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,217,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,218,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,8
+src\routes\meta\Scatterplot.svelte,219,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,16
+src\routes\meta\Scatterplot.svelte,220,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,221,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,222,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,8
+src\routes\meta\Scatterplot.svelte,223,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,224,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,8
+src\routes\meta\Scatterplot.svelte,225,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,9
+src\routes\meta\Scatterplot.svelte,226,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,227,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,228,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,7
+src\routes\meta\Scatterplot.svelte,229,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\Scatterplot.svelte,230,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,231,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,24
+src\routes\meta\Scatterplot.svelte,232,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,23
+src\routes\meta\Scatterplot.svelte,233,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,234,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,8
+src\routes\meta\Scatterplot.svelte,235,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,21
+src\routes\meta\Scatterplot.svelte,236,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,237,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,238,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,239,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\Scatterplot.svelte,240,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,241,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,16
+src\routes\meta\Scatterplot.svelte,242,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,4
+src\routes\meta\Scatterplot.svelte,243,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,244,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,245,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,246,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,10
+src\routes\meta\Scatterplot.svelte,247,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,15
+src\routes\meta\Scatterplot.svelte,248,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,249,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,42
+src\routes\meta\Scatterplot.svelte,250,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\Scatterplot.svelte,251,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,7
+src\routes\meta\+page.svelte,1,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,7
+src\routes\meta\+page.svelte,2,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,24
+src\routes\meta\+page.svelte,3,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\routes\meta\+page.svelte,4,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,32
+src\routes\meta\+page.svelte,5,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,6,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,37
+src\routes\meta\+page.svelte,7,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,33
+src\routes\meta\+page.svelte,8,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,46
+src\routes\meta\+page.svelte,9,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,10,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,30
+src\routes\meta\+page.svelte,11,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,12
+src\routes\meta\+page.svelte,12,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,17
+src\routes\meta\+page.svelte,13,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,15
+src\routes\meta\+page.svelte,14,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,16
+src\routes\meta\+page.svelte,15,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,10
+src\routes\meta\+page.svelte,16,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,10
+src\routes\meta\+page.svelte,17,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,22
+src\routes\meta\+page.svelte,18,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,19,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,36
+src\routes\meta\+page.svelte,20,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,30
+src\routes\meta\+page.svelte,21,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,22,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,42
+src\routes\meta\+page.svelte,23,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,20
+src\routes\meta\+page.svelte,24,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,45
+src\routes\meta\+page.svelte,25,js,00000000,Not Committed Yet,2025-05-22,12:00:13,-03:00,2025-05-22T12:00:13-03:00,0,41
+src\routes\meta\+page.svelte,26,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,6
+src\routes\meta\+page.svelte,27,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,22
+src\routes\meta\+page.svelte,28,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,24
+src\routes\meta\+page.svelte,29,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,26
+src\routes\meta\+page.svelte,30,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,50
+src\routes\meta\+page.svelte,31,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,31
+src\routes\meta\+page.svelte,32,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,2
+src\routes\meta\+page.svelte,33,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,1
+src\routes\meta\+page.svelte,34,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,35,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,69
+src\routes\meta\+page.svelte,36,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,43
+src\routes\meta\+page.svelte,37,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,19
+src\routes\meta\+page.svelte,38,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,46
+src\routes\meta\+page.svelte,39,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,51
+src\routes\meta\+page.svelte,40,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,32
+src\routes\meta\+page.svelte,41,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,10
+src\routes\meta\+page.svelte,42,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,10
+src\routes\meta\+page.svelte,43,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,66
+src\routes\meta\+page.svelte,44,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,38
+src\routes\meta\+page.svelte,45,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,58
+src\routes\meta\+page.svelte,46,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,23
+src\routes\meta\+page.svelte,47,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,0
+src\routes\meta\+page.svelte,48,js,b4905285,ddanieldma,2025-04-28,10:58:07,-03:00,2025-04-28T10:58:07-03:00,0,0
+src\routes\meta\+page.svelte,49,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,24
+src\routes\meta\+page.svelte,50,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,60
+src\routes\meta\+page.svelte,51,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,36
+src\routes\meta\+page.svelte,52,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,12
+src\routes\meta\+page.svelte,53,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,18
+src\routes\meta\+page.svelte,54,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,14
+src\routes\meta\+page.svelte,55,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,16
+src\routes\meta\+page.svelte,56,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,1
+src\routes\meta\+page.svelte,57,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,0
+src\routes\meta\+page.svelte,58,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,57
+src\routes\meta\+page.svelte,59,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,14
+src\routes\meta\+page.svelte,60,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,0
+src\routes\meta\+page.svelte,61,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,10
+src\routes\meta\+page.svelte,62,js,b4905285,ddanieldma,2025-04-28,10:58:07,-03:00,2025-04-28T10:58:07-03:00,0,25
+src\routes\meta\+page.svelte,63,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,64,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,44
+src\routes\meta\+page.svelte,65,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,44
+src\routes\meta\+page.svelte,66,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,67,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,52
+src\routes\meta\+page.svelte,68,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,78
+src\routes\meta\+page.svelte,69,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,70,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,67
+src\routes\meta\+page.svelte,71,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\+page.svelte,72,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,79
+src\routes\meta\+page.svelte,73,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,79
+src\routes\meta\+page.svelte,74,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,52
+src\routes\meta\+page.svelte,75,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,70
+src\routes\meta\+page.svelte,76,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,77,js,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,45
+src\routes\meta\+page.svelte,78,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,18
+src\routes\meta\+page.svelte,79,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,21
+src\routes\meta\+page.svelte,80,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,7
+src\routes\meta\+page.svelte,81,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,8
+src\routes\meta\+page.svelte,82,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,83,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,84,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,15
+src\routes\meta\+page.svelte,85,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,11
+src\routes\meta\+page.svelte,86,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,35
+src\routes\meta\+page.svelte,87,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,36
+src\routes\meta\+page.svelte,88,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,89,js,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,90,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,19
+src\routes\meta\+page.svelte,91,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,36
+src\routes\meta\+page.svelte,92,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,24
+src\routes\meta\+page.svelte,93,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,7
+src\routes\meta\+page.svelte,94,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,20
+src\routes\meta\+page.svelte,95,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\routes\meta\+page.svelte,96,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\routes\meta\+page.svelte,97,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,98,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,44
+src\routes\meta\+page.svelte,99,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,15
+src\routes\meta\+page.svelte,100,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,8
+src\routes\meta\+page.svelte,101,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,22
+src\routes\meta\+page.svelte,102,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,29
+src\routes\meta\+page.svelte,103,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,13
+src\routes\meta\+page.svelte,104,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,13
+src\routes\meta\+page.svelte,105,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,10
+src\routes\meta\+page.svelte,106,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\routes\meta\+page.svelte,107,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,35
+src\routes\meta\+page.svelte,108,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,44
+src\routes\meta\+page.svelte,109,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\routes\meta\+page.svelte,110,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,111,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,28
+src\routes\meta\+page.svelte,112,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,59
+src\routes\meta\+page.svelte,113,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,24
+src\routes\meta\+page.svelte,114,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,28
+src\routes\meta\+page.svelte,115,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,72
+src\routes\meta\+page.svelte,116,js,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,50
+src\routes\meta\+page.svelte,117,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,8
+src\routes\meta\+page.svelte,118,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,119,svelte,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,3
+src\routes\meta\+page.svelte,120,svelte,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,3
+src\routes\meta\+page.svelte,121,svelte,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,4
+src\routes\meta\+page.svelte,122,svelte,9c08737f,ddanieldma,2025-04-25,10:05:59,-03:00,2025-04-25T10:05:59-03:00,0,0
+src\routes\meta\+page.svelte,123,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,29
+src\routes\meta\+page.svelte,124,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,19
+src\routes\meta\+page.svelte,125,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,46
+src\routes\meta\+page.svelte,126,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,88
+src\routes\meta\+page.svelte,127,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\+page.svelte,128,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,129,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,63
+src\routes\meta\+page.svelte,130,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,5
+src\routes\meta\+page.svelte,131,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,132,svelte,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,3
+src\routes\meta\+page.svelte,133,svelte,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,22
+src\routes\meta\+page.svelte,134,svelte,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,4
+src\routes\meta\+page.svelte,135,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,136,svelte,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,76
+src\routes\meta\+page.svelte,137,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,0
+src\routes\meta\+page.svelte,138,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,45
+src\routes\meta\+page.svelte,139,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\routes\meta\+page.svelte,140,svelte,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,0
+src\routes\meta\+page.svelte,141,svelte,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,0
+src\routes\meta\+page.svelte,142,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,5
+src\routes\meta\+page.svelte,143,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,21
+src\routes\meta\+page.svelte,144,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,15
+src\routes\meta\+page.svelte,145,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,23
+src\routes\meta\+page.svelte,146,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,16
+src\routes\meta\+page.svelte,147,svelte,313777a5,ddanieldma,2025-04-26,20:42:55,-03:00,2025-04-26T20:42:55-03:00,0,12
+src\routes\meta\+page.svelte,148,svelte,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,1
+src\routes\meta\+page.svelte,149,svelte,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,0
+src\routes\meta\+page.svelte,150,svelte,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,6
+src\routes\meta\+page.svelte,151,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\+page.svelte,152,css,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,13
+src\routes\meta\+page.svelte,153,css,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,22
+src\routes\meta\+page.svelte,154,css,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,0
+src\routes\meta\+page.svelte,155,css,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,0
+src\routes\meta\+page.svelte,156,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,7
+src\routes\meta\+page.svelte,157,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,11
+src\routes\meta\+page.svelte,158,css,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,0
+src\routes\meta\+page.svelte,159,css,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,0
+src\routes\meta\+page.svelte,160,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,18
+src\routes\meta\+page.svelte,161,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,11
+src\routes\meta\+page.svelte,162,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,0
+src\routes\meta\+page.svelte,163,css,fd10aa12,ddanieldma,2025-04-28,10:09:40,-03:00,2025-04-28T10:09:40-03:00,0,0
+src\routes\meta\+page.svelte,164,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\routes\meta\+page.svelte,165,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,12
+src\routes\meta\+page.svelte,166,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,11
+src\routes\meta\+page.svelte,167,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\+page.svelte,168,css,1227b91a,ddanieldma,2025-05-01,13:22:29,-03:00,2025-05-01T13:22:29-03:00,0,17
+src\routes\meta\+page.svelte,169,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\routes\meta\+page.svelte,170,svelte,56740219,ddanieldma,2025-04-27,07:43:40,-03:00,2025-04-27T07:43:40-03:00,0,7
+src\routes\cv\+page.svelte,1,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,12
+src\routes\cv\+page.svelte,2,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,27
+src\routes\cv\+page.svelte,3,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,13
+src\routes\cv\+page.svelte,4,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,0
+src\routes\cv\+page.svelte,5,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,15
+src\routes\cv\+page.svelte,6,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,35
+src\routes\cv\+page.svelte,7,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,8,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,17
+src\routes\cv\+page.svelte,9,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,39
+src\routes\cv\+page.svelte,10,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,38
+src\routes\cv\+page.svelte,11,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,33
+src\routes\cv\+page.svelte,12,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,43
+src\routes\cv\+page.svelte,13,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,138
+src\routes\cv\+page.svelte,14,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,5
+src\routes\cv\+page.svelte,15,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,16,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,17,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,20
+src\routes\cv\+page.svelte,18,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,19,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,17
+src\routes\cv\+page.svelte,20,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,21,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,22,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,66
+src\routes\cv\+page.svelte,23,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,24,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,88
+src\routes\cv\+page.svelte,25,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,41
+src\routes\cv\+page.svelte,26,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,27,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,28,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,65
+src\routes\cv\+page.svelte,29,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,30,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,78
+src\routes\cv\+page.svelte,31,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,32,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,5
+src\routes\cv\+page.svelte,33,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,34,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,35,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,20
+src\routes\cv\+page.svelte,36,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,37,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,22
+src\routes\cv\+page.svelte,38,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,39,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,40,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,49
+src\routes\cv\+page.svelte,41,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,32
+src\routes\cv\+page.svelte,42,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,39
+src\routes\cv\+page.svelte,43,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,37
+src\routes\cv\+page.svelte,44,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,38
+src\routes\cv\+page.svelte,45,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,66
+src\routes\cv\+page.svelte,46,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,47,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,48,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,49,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,50,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,27
+src\routes\cv\+page.svelte,51,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,52,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,53,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,77
+src\routes\cv\+page.svelte,54,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,55,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,61
+src\routes\cv\+page.svelte,56,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,61
+src\routes\cv\+page.svelte,57,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,75
+src\routes\cv\+page.svelte,58,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,86
+src\routes\cv\+page.svelte,59,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,60,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,5
+src\routes\cv\+page.svelte,61,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,62,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,20
+src\routes\cv\+page.svelte,63,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,64,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,23
+src\routes\cv\+page.svelte,65,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,66,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\cv\+page.svelte,67,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,78
+src\routes\cv\+page.svelte,68,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,69,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,104
+src\routes\cv\+page.svelte,70,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,71,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,62
+src\routes\cv\+page.svelte,72,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\cv\+page.svelte,73,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,200
+src\routes\cv\+page.svelte,74,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\cv\+page.svelte,75,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,5
+src\routes\cv\+page.svelte,76,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,5
+src\routes\contact\+page.svelte,1,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,12
+src\routes\contact\+page.svelte,2,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,30
+src\routes\contact\+page.svelte,3,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,13
+src\routes\contact\+page.svelte,4,svelte,fd46630b,Daniel de Miranda Almeida,2025-03-27,11:45:49,-03:00,2025-03-27T11:45:49-03:00,0,0
+src\routes\contact\+page.svelte,5,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,3
+src\routes\contact\+page.svelte,6,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,11
+src\routes\contact\+page.svelte,7,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,4
+src\routes\contact\+page.svelte,8,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\contact\+page.svelte,9,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,17
+src\routes\contact\+page.svelte,10,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,59
+src\routes\contact\+page.svelte,11,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,18
+src\routes\contact\+page.svelte,12,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,39
+src\routes\contact\+page.svelte,13,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,7
+src\routes\contact\+page.svelte,14,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\contact\+page.svelte,15,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,20
+src\routes\contact\+page.svelte,16,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,42
+src\routes\contact\+page.svelte,17,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,7
+src\routes\contact\+page.svelte,18,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\contact\+page.svelte,19,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,17
+src\routes\contact\+page.svelte,20,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,39
+src\routes\contact\+page.svelte,21,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,7
+src\routes\contact\+page.svelte,22,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,0
+src\routes\contact\+page.svelte,23,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,47
+src\routes\contact\+page.svelte,24,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,6
+src\routes\contact\+page.svelte,25,svelte,9ef91d3b,Daniel de Miranda Almeida,2025-03-27,11:44:07,-03:00,2025-03-27T11:44:07-03:00,0,5
+src\lib\Stats.svelte,1,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,7
+src\lib\Stats.svelte,2,js,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,25
+src\lib\Stats.svelte,3,js,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,22
+src\lib\Stats.svelte,4,js,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,15
+src\lib\Stats.svelte,5,js,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,21
+src\lib\Stats.svelte,6,js,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,23
+src\lib\Stats.svelte,7,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,8
+src\lib\Stats.svelte,8,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,9,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,12
+src\lib\Stats.svelte,10,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,2
+src\lib\Stats.svelte,11,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,12
+src\lib\Stats.svelte,12,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,3
+src\lib\Stats.svelte,13,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,15
+src\lib\Stats.svelte,14,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,16
+src\lib\Stats.svelte,15,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,40
+src\lib\Stats.svelte,16,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,3
+src\lib\Stats.svelte,17,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,6
+src\lib\Stats.svelte,18,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,8
+src\lib\Stats.svelte,19,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,22
+src\lib\Stats.svelte,20,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,3
+src\lib\Stats.svelte,21,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,29
+src\lib\Stats.svelte,22,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,4
+src\lib\Stats.svelte,23,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,25
+src\lib\Stats.svelte,24,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,19
+src\lib\Stats.svelte,25,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,5
+src\lib\Stats.svelte,26,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,6
+src\lib\Stats.svelte,27,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,4
+src\lib\Stats.svelte,28,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,9
+src\lib\Stats.svelte,29,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,4
+src\lib\Stats.svelte,30,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,31,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,6
+src\lib\Stats.svelte,32,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,7
+src\lib\Stats.svelte,33,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,19
+src\lib\Stats.svelte,34,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,18
+src\lib\Stats.svelte,35,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,48
+src\lib\Stats.svelte,36,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,87
+src\lib\Stats.svelte,37,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,13
+src\lib\Stats.svelte,38,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,14
+src\lib\Stats.svelte,39,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,27
+src\lib\Stats.svelte,40,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,10
+src\lib\Stats.svelte,41,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,126
+src\lib\Stats.svelte,42,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,140
+src\lib\Stats.svelte,43,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,156
+src\lib\Stats.svelte,44,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,142
+src\lib\Stats.svelte,45,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,24
+src\lib\Stats.svelte,46,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,28
+src\lib\Stats.svelte,47,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,17
+src\lib\Stats.svelte,48,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,18
+src\lib\Stats.svelte,49,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,50,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,13
+src\lib\Stats.svelte,51,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,22
+src\lib\Stats.svelte,52,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,22
+src\lib\Stats.svelte,53,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,19
+src\lib\Stats.svelte,54,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,55,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,56,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,2
+src\lib\Stats.svelte,57,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,11
+src\lib\Stats.svelte,58,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,59,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,13
+src\lib\Stats.svelte,60,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,29
+src\lib\Stats.svelte,61,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,62,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,19
+src\lib\Stats.svelte,63,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,13
+src\lib\Stats.svelte,64,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,65,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,66,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,6
+src\lib\Stats.svelte,67,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,11
+src\lib\Stats.svelte,68,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,69,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,13
+src\lib\Stats.svelte,70,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,22
+src\lib\Stats.svelte,71,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,19
+src\lib\Stats.svelte,72,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,73,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,74,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,2
+src\lib\Stats.svelte,75,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,11
+src\lib\Stats.svelte,76,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,20
+src\lib\Stats.svelte,77,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,17
+src\lib\Stats.svelte,78,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,42
+src\lib\Stats.svelte,79,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,80,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,2
+src\lib\Stats.svelte,81,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,20
+src\lib\Stats.svelte,82,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,17
+src\lib\Stats.svelte,83,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,9
+src\lib\Stats.svelte,84,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,85,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,86,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,6
+src\lib\Stats.svelte,87,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,10
+src\lib\Stats.svelte,88,css,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,0
+src\lib\Stats.svelte,89,svelte,34f88e51,ddanieldma,2025-04-26,20:40:40,-03:00,2025-04-26T20:40:40-03:00,0,7
+src\lib\Project.svelte,1,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,7
+src\lib\Project.svelte,2,js,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,19
+src\lib\Project.svelte,3,js,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,20
+src\lib\Project.svelte,4,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,8
+src\lib\Project.svelte,5,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,6,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,8
+src\lib\Project.svelte,7,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,65
+src\lib\Project.svelte,8,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,30
+src\lib\Project.svelte,9,svelte,b667b113,Daniel de Miranda Almeida,2025-04-03,12:02:17,-03:00,2025-04-03T12:02:17-03:00,0,4
+src\lib\Project.svelte,10,svelte,b667b113,Daniel de Miranda Almeida,2025-04-03,12:02:17,-03:00,2025-04-03T12:02:17-03:00,0,2
+src\lib\Project.svelte,11,svelte,b667b113,Daniel de Miranda Almeida,2025-04-03,12:02:17,-03:00,2025-04-03T12:02:17-03:00,0,17
+src\lib\Project.svelte,12,svelte,b667b113,Daniel de Miranda Almeida,2025-04-03,12:02:17,-03:00,2025-04-03T12:02:17-03:00,0,3
+src\lib\Project.svelte,13,svelte,b667b113,Daniel de Miranda Almeida,2025-04-03,12:02:17,-03:00,2025-04-03T12:02:17-03:00,0,2
+src\lib\Project.svelte,14,svelte,b667b113,Daniel de Miranda Almeida,2025-04-03,12:02:17,-03:00,2025-04-03T12:02:17-03:00,0,10
+src\lib\Project.svelte,15,svelte,b667b113,Daniel de Miranda Almeida,2025-04-03,12:02:17,-03:00,2025-04-03T12:02:17-03:00,0,3
+src\lib\Project.svelte,16,svelte,b667b113,Daniel de Miranda Almeida,2025-04-03,12:02:17,-03:00,2025-04-03T12:02:17-03:00,0,5
+src\lib\Project.svelte,17,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,9
+src\lib\Project.svelte,18,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,19,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,6
+src\lib\Project.svelte,20,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,4
+src\lib\Project.svelte,21,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,15
+src\lib\Project.svelte,22,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,23,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,24,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,8
+src\lib\Project.svelte,25,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,13
+src\lib\Project.svelte,26,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,30
+src\lib\Project.svelte,27,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,13
+src\lib\Project.svelte,28,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,16
+src\lib\Project.svelte,29,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,30,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,31,css,e27fc23e,ddanieldma,2025-04-02,21:08:53,-03:00,2025-04-02T21:08:53-03:00,0,11
+src\lib\Project.svelte,32,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,9
+src\lib\Project.svelte,33,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,34,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,35,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,11
+src\lib\Project.svelte,36,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,18
+src\lib\Project.svelte,37,css,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,0
+src\lib\Project.svelte,38,svelte,73697d98,Daniel de Miranda Almeida,2025-03-27,12:43:07,-03:00,2025-03-27T12:43:07-03:00,0,7
+src\lib\Pie.svelte,1,svelte,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,7
+src\lib\Pie.svelte,2,js,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,24
+src\lib\Pie.svelte,3,js,c5b42618,ddanieldma,2025-04-24,14:35:04,-03:00,2025-04-24T14:35:04-03:00,0,0
+src\lib\Pie.svelte,4,js,c5b42618,ddanieldma,2025-04-24,14:35:04,-03:00,2025-04-24T14:35:04-03:00,0,38
+src\lib\Pie.svelte,5,js,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,20
+src\lib\Pie.svelte,6,js,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,5
+src\lib\Pie.svelte,7,js,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,14
+src\lib\Pie.svelte,8,js,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,16
+src\lib\Pie.svelte,9,js,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,0
+src\lib\Pie.svelte,10,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,34
+src\lib\Pie.svelte,11,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,23
+src\lib\Pie.svelte,12,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,13
+src\lib\Pie.svelte,13,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,20
+src\lib\Pie.svelte,14,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,1
+src\lib\Pie.svelte,15,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,0
+src\lib\Pie.svelte,16,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,58
+src\lib\Pie.svelte,17,js,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,20
+src\lib\Pie.svelte,18,js,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,19,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,45
+src\lib\Pie.svelte,20,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,11
+src\lib\Pie.svelte,21,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,8
+src\lib\Pie.svelte,22,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,0
+src\lib\Pie.svelte,23,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,3
+src\lib\Pie.svelte,24,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,59
+src\lib\Pie.svelte,25,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,45
+src\lib\Pie.svelte,26,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,30
+src\lib\Pie.svelte,27,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,40
+src\lib\Pie.svelte,28,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,0
+src\lib\Pie.svelte,29,js,d36b73fd,ddanieldma,2025-04-24,12:45:44,-03:00,2025-04-24T12:45:44-03:00,0,0
+src\lib\Pie.svelte,30,js,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,60
+src\lib\Pie.svelte,31,js,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,48
+src\lib\Pie.svelte,32,js,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,71
+src\lib\Pie.svelte,33,js,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,68
+src\lib\Pie.svelte,34,js,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,24
+src\lib\Pie.svelte,35,js,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,49
+src\lib\Pie.svelte,36,js,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,0
+src\lib\Pie.svelte,37,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,66
+src\lib\Pie.svelte,38,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,50
+src\lib\Pie.svelte,39,js,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,28
+src\lib\Pie.svelte,40,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,8
+src\lib\Pie.svelte,41,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\lib\Pie.svelte,42,svelte,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,22
+src\lib\Pie.svelte,43,svelte,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,30
+src\lib\Pie.svelte,44,svelte,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,25
+src\lib\Pie.svelte,45,svelte,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,53
+src\lib\Pie.svelte,46,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,4
+src\lib\Pie.svelte,47,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,27
+src\lib\Pie.svelte,48,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,67
+src\lib\Pie.svelte,49,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,39
+src\lib\Pie.svelte,50,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,1
+src\lib\Pie.svelte,51,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,6
+src\lib\Pie.svelte,52,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,5
+src\lib\Pie.svelte,53,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\lib\Pie.svelte,54,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,55
+src\lib\Pie.svelte,55,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,18
+src\lib\Pie.svelte,56,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,23
+src\lib\Pie.svelte,57,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,38
+src\lib\Pie.svelte,58,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,4
+src\lib\Pie.svelte,59,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,13
+src\lib\Pie.svelte,60,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,39
+src\lib\Pie.svelte,61,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,7
+src\lib\Pie.svelte,62,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\lib\Pie.svelte,63,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,8
+src\lib\Pie.svelte,64,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\lib\Pie.svelte,65,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,19
+src\lib\Pie.svelte,66,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,4
+src\lib\Pie.svelte,67,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,6
+src\lib\Pie.svelte,68,svelte,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,4
+src\lib\Pie.svelte,69,svelte,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,5
+src\lib\Pie.svelte,70,svelte,8f09dd12,Daniel de Miranda Almeida,2025-04-03,12:26:42,-03:00,2025-04-03T12:26:42-03:00,0,0
+src\lib\Pie.svelte,71,svelte,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,6
+src\lib\Pie.svelte,72,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,4
+src\lib\Pie.svelte,73,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,15
+src\lib\Pie.svelte,74,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,17
+src\lib\Pie.svelte,75,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,76,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,43
+src\lib\Pie.svelte,77,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,17
+src\lib\Pie.svelte,78,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,79,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,80,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,8
+src\lib\Pie.svelte,81,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,30
+src\lib\Pie.svelte,82,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,11
+src\lib\Pie.svelte,83,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,12
+src\lib\Pie.svelte,84,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,85,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,86,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,37
+src\lib\Pie.svelte,87,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,12
+src\lib\Pie.svelte,88,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,89,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,5
+src\lib\Pie.svelte,90,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,17
+src\lib\Pie.svelte,91,css,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,15
+src\lib\Pie.svelte,92,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,93,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,39
+src\lib\Pie.svelte,94,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,12
+src\lib\Pie.svelte,95,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,96,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,97,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,10
+src\lib\Pie.svelte,98,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,36
+src\lib\Pie.svelte,99,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,100,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,11
+src\lib\Pie.svelte,101,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,29
+src\lib\Pie.svelte,102,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,103,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,104,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,9
+src\lib\Pie.svelte,105,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,19
+src\lib\Pie.svelte,106,css,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,13
+src\lib\Pie.svelte,107,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,108,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,109,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,110,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,36
+src\lib\Pie.svelte,111,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,11
+src\lib\Pie.svelte,112,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,113,css,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,36
+src\lib\Pie.svelte,114,css,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,24
+src\lib\Pie.svelte,115,css,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\lib\Pie.svelte,116,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,117,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,11
+src\lib\Pie.svelte,118,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,24
+src\lib\Pie.svelte,119,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,120,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,121,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,3
+src\lib\Pie.svelte,122,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,13
+src\lib\Pie.svelte,123,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,22
+src\lib\Pie.svelte,124,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,22
+src\lib\Pie.svelte,125,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,18
+src\lib\Pie.svelte,126,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,127,css,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,10
+src\lib\Pie.svelte,128,css,82a01d0a,ddanieldma,2025-04-24,14:46:56,-03:00,2025-04-24T14:46:56-03:00,0,9
+src\lib\Pie.svelte,129,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,130,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,131,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,3
+src\lib\Pie.svelte,132,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,13
+src\lib\Pie.svelte,133,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,134,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,22
+src\lib\Pie.svelte,135,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,16
+src\lib\Pie.svelte,136,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,137,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,8
+src\lib\Pie.svelte,138,css,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,0
+src\lib\Pie.svelte,139,css,9dc34fc9,ddanieldma,2025-04-24,14:29:57,-03:00,2025-04-24T14:29:57-03:00,0,24
+src\lib\Pie.svelte,140,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,141,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,142,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,5
+src\lib\Pie.svelte,143,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,55
+src\lib\Pie.svelte,144,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,11
+src\lib\Pie.svelte,145,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,12
+src\lib\Pie.svelte,146,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,147,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,52
+src\lib\Pie.svelte,148,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,30
+src\lib\Pie.svelte,149,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,150,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,44
+src\lib\Pie.svelte,151,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,18
+src\lib\Pie.svelte,152,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,153,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,24
+src\lib\Pie.svelte,154,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,18
+src\lib\Pie.svelte,155,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,156,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,157,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,11
+src\lib\Pie.svelte,158,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,11
+src\lib\Pie.svelte,159,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,160,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,13
+src\lib\Pie.svelte,161,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,19
+src\lib\Pie.svelte,162,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,163,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,18
+src\lib\Pie.svelte,164,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,7
+src\lib\Pie.svelte,165,css,7f240e13,ddanieldma,2025-04-24,14:45:36,-03:00,2025-04-24T14:45:36-03:00,0,0
+src\lib\Pie.svelte,166,svelte,17423ae5,Daniel de Miranda Almeida,2025-04-03,12:20:41,-03:00,2025-04-03T12:20:41-03:00,0,7
+src\lib\Bar.svelte,1,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,7
+src\lib\Bar.svelte,2,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,24
+src\lib\Bar.svelte,3,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,4,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,20
+src\lib\Bar.svelte,5,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,22
+src\lib\Bar.svelte,6,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,25
+src\lib\Bar.svelte,7,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,8,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,22
+src\lib\Bar.svelte,9,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,21
+src\lib\Bar.svelte,10,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,11,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,65
+src\lib\Bar.svelte,12,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,13,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,58
+src\lib\Bar.svelte,14,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,61
+src\lib\Bar.svelte,15,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,16,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,24
+src\lib\Bar.svelte,17,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,27
+src\lib\Bar.svelte,18,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,73
+src\lib\Bar.svelte,19,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,18
+src\lib\Bar.svelte,20,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,21,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,28
+src\lib\Bar.svelte,22,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,32
+src\lib\Bar.svelte,23,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,33
+src\lib\Bar.svelte,24,js,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,26
+src\lib\Bar.svelte,25,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,8
+src\lib\Bar.svelte,26,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,27,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,22
+src\lib\Bar.svelte,28,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,55
+src\lib\Bar.svelte,29,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,32
+src\lib\Bar.svelte,30,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,4
+src\lib\Bar.svelte,31,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,35
+src\lib\Bar.svelte,32,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,33
+src\lib\Bar.svelte,33,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,4
+src\lib\Bar.svelte,34,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,16
+src\lib\Bar.svelte,35,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,22
+src\lib\Bar.svelte,36,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,21
+src\lib\Bar.svelte,37,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,25
+src\lib\Bar.svelte,38,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,60
+src\lib\Bar.svelte,39,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,37
+src\lib\Bar.svelte,40,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,38
+src\lib\Bar.svelte,41,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,1
+src\lib\Bar.svelte,42,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,4
+src\lib\Bar.svelte,43,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,12
+src\lib\Bar.svelte,44,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,80
+src\lib\Bar.svelte,45,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,38
+src\lib\Bar.svelte,46,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,64
+src\lib\Bar.svelte,47,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,59
+src\lib\Bar.svelte,48,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,0
+src\lib\Bar.svelte,49,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,4,19
+src\lib\Bar.svelte,50,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,6
+src\lib\Bar.svelte,51,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,6
+src\lib\Bar.svelte,52,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,5
+src\lib\Bar.svelte,53,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,54,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,18
+src\lib\Bar.svelte,55,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,22
+src\lib\Bar.svelte,56,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,2
+src\lib\Bar.svelte,57,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,37
+src\lib\Bar.svelte,58,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,35
+src\lib\Bar.svelte,59,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,5,60
+src\lib\Bar.svelte,60,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,0
+src\lib\Bar.svelte,61,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,4,27
+src\lib\Bar.svelte,62,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,4,29
+src\lib\Bar.svelte,63,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,3,4
+src\lib\Bar.svelte,64,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,6
+src\lib\Bar.svelte,65,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,4
+src\lib\Bar.svelte,66,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,5
+src\lib\Bar.svelte,67,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,68,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,6
+src\lib\Bar.svelte,69,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,43
+src\lib\Bar.svelte,70,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,11
+src\lib\Bar.svelte,71,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,13
+src\lib\Bar.svelte,72,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,22
+src\lib\Bar.svelte,73,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,19
+src\lib\Bar.svelte,74,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,75,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,76,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,31
+src\lib\Bar.svelte,77,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,5
+src\lib\Bar.svelte,78,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,17
+src\lib\Bar.svelte,79,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,26
+src\lib\Bar.svelte,80,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,15
+src\lib\Bar.svelte,81,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,82,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,83,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,17
+src\lib\Bar.svelte,84,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,13
+src\lib\Bar.svelte,85,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,10
+src\lib\Bar.svelte,86,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,17
+src\lib\Bar.svelte,87,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,15
+src\lib\Bar.svelte,88,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,89,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,90,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,29
+src\lib\Bar.svelte,91,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,41
+src\lib\Bar.svelte,92,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,12
+src\lib\Bar.svelte,93,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,94,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,95,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,21
+src\lib\Bar.svelte,96,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,14
+src\lib\Bar.svelte,97,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,17
+src\lib\Bar.svelte,98,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,15
+src\lib\Bar.svelte,99,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,100,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,101,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,29
+src\lib\Bar.svelte,102,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,43
+src\lib\Bar.svelte,103,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,12
+src\lib\Bar.svelte,104,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,105,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,106,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,28
+src\lib\Bar.svelte,107,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,22
+src\lib\Bar.svelte,108,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,17
+src\lib\Bar.svelte,109,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,15
+src\lib\Bar.svelte,110,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,10
+src\lib\Bar.svelte,111,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,112,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,113,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,33
+src\lib\Bar.svelte,114,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,7
+src\lib\Bar.svelte,115,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,17
+src\lib\Bar.svelte,116,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,20
+src\lib\Bar.svelte,117,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,25
+src\lib\Bar.svelte,118,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,28
+src\lib\Bar.svelte,119,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,120,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,121,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,33
+src\lib\Bar.svelte,122,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,8
+src\lib\Bar.svelte,123,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,13
+src\lib\Bar.svelte,124,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,58
+src\lib\Bar.svelte,125,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,10
+src\lib\Bar.svelte,126,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,16
+src\lib\Bar.svelte,127,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,12
+src\lib\Bar.svelte,128,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,13
+src\lib\Bar.svelte,129,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,17
+src\lib\Bar.svelte,130,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,23
+src\lib\Bar.svelte,131,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,11
+src\lib\Bar.svelte,132,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,22
+src\lib\Bar.svelte,133,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,16
+src\lib\Bar.svelte,134,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,135,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,136,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,137,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,17
+src\lib\Bar.svelte,138,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,11
+src\lib\Bar.svelte,139,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,19
+src\lib\Bar.svelte,140,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,15
+src\lib\Bar.svelte,141,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,17
+src\lib\Bar.svelte,142,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,143,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,144,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,23
+src\lib\Bar.svelte,145,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,20
+src\lib\Bar.svelte,146,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,17
+src\lib\Bar.svelte,147,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,148,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,149,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,37
+src\lib\Bar.svelte,150,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,41
+src\lib\Bar.svelte,151,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,11
+src\lib\Bar.svelte,152,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,12
+src\lib\Bar.svelte,153,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,154,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,155,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,11
+src\lib\Bar.svelte,156,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,19
+src\lib\Bar.svelte,157,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,24
+src\lib\Bar.svelte,158,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,21
+src\lib\Bar.svelte,159,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,10
+src\lib\Bar.svelte,160,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,11
+src\lib\Bar.svelte,161,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,20
+src\lib\Bar.svelte,162,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,20
+src\lib\Bar.svelte,163,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,164,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,0
+src\lib\Bar.svelte,165,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,21
+src\lib\Bar.svelte,166,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,11
+src\lib\Bar.svelte,167,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,18
+src\lib\Bar.svelte,168,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,2,11
+src\lib\Bar.svelte,169,css,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,1,0
+src\lib\Bar.svelte,170,svelte,6165a3ee,ddanieldma,2025-04-28,14:57:02,-03:00,2025-04-28T14:57:02-03:00,0,7
