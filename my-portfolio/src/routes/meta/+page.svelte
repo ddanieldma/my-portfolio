@@ -9,6 +9,7 @@
 
     // Defining metadata data array
     let data = []
+    let loadingData = []
     let loading = true
     let error = null
     let commitMaxTime
@@ -20,9 +21,9 @@
     let width = 1000, height = 600;
 
     // --- Fetching and using codebase data ---
-    onMount(async () => {
+    async function loadData() {
         // Fetching and ensuring correct types in data
-        data = await d3.csv('./data/loc.csv', row => ({
+        loadingData = await d3.csv('../data/loc.csv', row => ({
             ...row,
             line: Number(row.line),
             depth: Number(row.depth),
@@ -30,7 +31,14 @@
             date: new Date(row.date + "T00:00" + row.timezone),
             datetime: new Date(row.datetime)
         }))
+    }
+    
+    
+    onMount(() => {
+        // Fetching and ensuring correct types in data
+        loadData()
     })
+    $: data = loadingData
 
     $: commits = d3.groups(data, d => d.commit).map(([commit, lines]) => {
         // Getting first line register of the commit
